@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Milestone Project 2 - Interactive Frontend Development</title>
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css" />
+</head>
+<body>
+    <div id="map">
+        
+    </div>
+    <script>
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 3,
+                center: {
+                    lat: 46.619261,
+                    lng: -33.134766
+                }
+            });
+        }
+    </script>
+
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXW0A3ny94RlpBJtj0ozwni2nc31wB51Y&callback=initMap"></script>
+    <script src="assets/js/maps.js"></script>
+
+    
+</body>
+</html>
