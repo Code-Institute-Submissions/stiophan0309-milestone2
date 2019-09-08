@@ -70,16 +70,23 @@
                     var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
                     
                     var locations = [
-                        { lat: 57.037408, lng: -5.682727 }
+                        {
+                        lat: 57.037408, 
+                        lng: -5.68272,
+                        title: "The Old Forge"
+                        }
                         ];
+                        
+                    var hotel = 'https://maps.google.com/mapfiles/kml/shapes/lodging.png';
                     
                     var markers = locations.map(function(location, i) {
                         return new google.maps.Marker({
                             position: location,
-                            label: labels[i % labels.length]
+                            label: labels[i % labels.length],
+                            icon: hotel
                         });
                     });
-                    
+
                     var markerCluster = new MarkerClusterer(map, markers,
                     {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
                     
