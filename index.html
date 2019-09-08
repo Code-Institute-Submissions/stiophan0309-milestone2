@@ -45,40 +45,53 @@
         
     </header>
     
-    <div id="map">
-        
-    </div>
-    <script>
-        function initMap() {
-            var map = new google.maps.Map(document.getElementById("map"), {
-                zoom: 10,
-                center: {
-                    lat: 57.032741,
-                    lng: -5.514386
+    <section class="container-fluid">
+        <div class="row">
+            
+            <div id="map">
+            </div>
+            
+            <div class="col-sm-12">
+                <h3>Accomodation</h3>
+            </div>
+
+        </div>
+            
+            <script>
+                function initMap() {
+                    var map = new google.maps.Map(document.getElementById("map"), {
+                        zoom: 10,
+                        center: {
+                            lat: 57.032741,
+                            lng: -5.514386
+                        }
+                    });
+                    
+                    var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                    
+                    var locations = [
+                        { lat: 57.037408, lng: -5.682727 }
+                        ];
+                    
+                    var markers = locations.map(function(location, i) {
+                        return new google.maps.Marker({
+                            position: location,
+                            label: labels[i % labels.length]
+                        });
+                    });
+                    
+                    var markerCluster = new MarkerClusterer(map, markers,
+                    {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
+                    
                 }
-            });
+            </script>
             
-            var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            
-            var locations = [
-                { lat: 57.037408, lng: -5.682727 }
-                ];
-            
-            var markers = locations.map(function(location, i) {
-                return new google.maps.Marker({
-                    position: location,
-                    label: labels[i % labels.length]
-                });
-            });
-            
-            var markerCluster = new MarkerClusterer(map, markers,
-            {imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'});
-            
-        }
-    </script>
-    
-    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
-    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXW0A3ny94RlpBJtj0ozwni2nc31wB51Y&callback=initMap"></script>
+            <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+            <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXW0A3ny94RlpBJtj0ozwni2nc31wB51Y&callback=initMap"></script>
+   
+    </section>
+
+
 
 </body>
 </html>

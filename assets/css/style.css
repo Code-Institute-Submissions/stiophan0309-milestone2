@@ -1,1 +1,4 @@
-div#map {min-height: 360px;}
+div#map {
+    min-height: 360px;
+    min-width: 100%;
+}
