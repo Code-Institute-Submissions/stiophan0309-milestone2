@@ -20,3 +20,14 @@ header {
     text-align: center;
     font-family: 'Quicksand', sans-serif;
 }
+
+.navbar-nav {
+    margin: 0 auto;
+}
+.nav-link {
+    text-decoration: none;
+    color:#fff;
+}
+.nav-link:hover {
+    color: #ff0;
+}
