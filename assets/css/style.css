@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Marcellus+SC&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css?family=KoHo&display=swap');
+
+p, a {
+    font-family: 'KoHo', sans-serif;
+}
 
 div#map {
     min-height: 360px;
