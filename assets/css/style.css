@@ -40,3 +40,7 @@ header {
 .nav-link:hover {
     color: #ff0;
 }
+
+.intro {
+    margin: 20px 0px 20px 0px;
+}
