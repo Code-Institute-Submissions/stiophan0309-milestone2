@@ -44,3 +44,7 @@ header {
 .intro {
     margin: 20px 0px 20px 0px;
 }
+
+.section-title {
+    font-family: 'Marcellus SC', serif;
+}
