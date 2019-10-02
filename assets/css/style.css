@@ -41,6 +41,11 @@ header {
     color: #ff0;
 }
 
+.navbar-toggler, .navbar-toggler-icon {
+    color: #fff;
+    border: 1px solid #fff;
+}
+
 .intro {
     margin: 20px 0px 20px 0px;
 }
@@ -52,4 +57,13 @@ header {
 #gettinghere {
     margin: 20px 0px 20px 0px;
     
+}
+
+footer {
+    margin: 0;
+    background-color: #136C69;
+    padding-top: 20px;
+}
+.legal {
+    color: #FEFBD0;
 }
