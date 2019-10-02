@@ -6,13 +6,14 @@ function initMap() {
             lng: -5.542526
         }
     });
-}
-/*    var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+    var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     var locations = [
-        { lat: 40.785091, lng: -73.968285 },
-        { lat: 41.084045, lng: -73.874245 },
-        { lat: 40.754932, lng: -73.984016 }
+        { lat: 57.040790, lng: -5.697839 }, /* The Old Forge */
+        { lat: 57.038134, lng: -5.685941 }, /* Knoydart Pier */
+        { lat: 57.074732, lng: -5.592170 },  /* Ladhar Bheinn */
+        { lat: 57.012912, lng: -5.456042 }  /*Sgùrr na Cìche */
     ];
 
     var markers = locations.map(function(location, i) {
@@ -24,4 +25,3 @@ function initMap() {
 
     var markerCluster = new MarkerClusterer(map, markers, { imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m' });
 }
-*/
