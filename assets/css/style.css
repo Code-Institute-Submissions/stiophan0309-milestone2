@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=KoHo&display=swap');
 
 html, body {
-    background-color: #ccc;
+    background-color: #F1EBD0;
 }
 
 p, a, ul, ol {
@@ -24,6 +24,7 @@ header {
     margin: 0;
     background-color: #136C69;
     padding-top: 20px;
+    border-bottom: 1px #ffffff solid;
 }
 .title-main {
     color: #fff;
@@ -60,7 +61,9 @@ header {
 .intro {
     margin: 20px;
     padding: 20px;
-    border: 1px solid #136C69;
+    border-width: 1px 1px 5px 1px;
+    border-style: solid;
+    border-color: #136C69;
 }
 .intro-heading {
     font-size: 1.25em;
