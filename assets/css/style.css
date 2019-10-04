@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Cookie&display=swap');
 @import url('https://fonts.googleapis.com/css?family=KoHo&display=swap');
 
+html, body {
+    background-color: #ccc;
+}
+
 p, a {
     font-family: 'KoHo', sans-serif;
 }
@@ -54,12 +58,13 @@ header {
     font-family: 'Marcellus SC', serif;
 }
 
-.circle {
-    border-radius: 100%;
-    width: 200%;
-    background-color: #f00;
-    padding: 5px;
-    border: 1px solid #fff;
+.badge-danger {
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 1em;
+    color: #000000;
+    border: 1px solid #ffffff;
+    -webkit-background-clip: padding-box;
 }
 
 #gettinghere {

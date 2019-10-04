@@ -15,7 +15,7 @@ function initMap() {
         { lat: 57.103380, lng: -5.380410 }, /* Kinlochhourn  */
         { lat: 56.970180, lng: -5.321517 }, /* Strathan */
         { lat: 57.074732, lng: -5.592170 }, /* Ladhar Bheinn */
-        { lat: 57.012912, lng: -5.456042 }  /*Sgùrr na Cìche */
+        { lat: 57.012912, lng: -5.456042 }  /* Sgùrr na Cìche */
     ];
 
     var markers = locations.map(function(location, i) {
