@@ -9,12 +9,15 @@ html, body {
 p, a, ul, ol {
     font-family: 'KoHo', sans-serif;
 }
-
+.mapouter {
+    padding: 20px;
+}
 div#map {
+    height: 500px;
     min-height: 360px;
-    min-width: 100%;
-    border: 1px solid #000;
-    margin: 20px;
+    width: 100%;
+    border: 1px solid #136C69;
+    margin: 0px;
 }
 
 header {
