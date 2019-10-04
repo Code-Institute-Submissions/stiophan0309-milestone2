@@ -14,6 +14,7 @@ div#map {
     min-height: 360px;
     min-width: 100%;
     border: 1px solid #000;
+    margin: 20px;
 }
 
 header {
@@ -49,11 +50,19 @@ header {
     color: #fff;
     border: 1px solid #fff;
 }
-
-.intro {
-    margin: 20px 0px 20px 0px;
+.wrap {
+    margin:0;
+    padding: 0;
 }
-
+.intro {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #136C69;
+}
+.intro-heading {
+    font-size: 1.25em;
+    padding-bottom: 10px;
+}
 .section-title {
     font-family: 'Marcellus SC', serif;
 }
