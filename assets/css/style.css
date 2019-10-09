@@ -68,6 +68,8 @@ header {
 .intro-heading {
     font-size: 1.25em;
     padding-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
 }
 .section-title {
     font-family: 'Marcellus SC', serif;
@@ -100,7 +102,7 @@ li {
 }
 #gettinghere {
     margin: 20px 0px 20px 0px;
-    
+
 }
 
 footer {
