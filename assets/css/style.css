@@ -20,7 +20,7 @@ div#map {
     border: 1px solid #136C69;
     margin: 0px;
 }
-
+/* Header */
 header {
     margin: 0;
     /* background-color: #136C69; */
@@ -42,6 +42,7 @@ header {
     font-family: 'Kaushan Script', cursive;
     font-size: 2em;
 }
+/*Navbar*/
 .navbar, .navbar-expand-lg, .nav-item {
     margin: 5px 0px 0px 0px;
     padding: 5px 0px 0px 0px;
@@ -69,14 +70,16 @@ header {
     margin:0;
     padding: 0;
 }
-.intro {
-    margin: 20px;
-    padding: 20px;
+
+.section {
+    margin: 0 auto;
     border-width: 1px 1px 5px 1px;
     border-style: solid;
     border-color: #136C69;
+    margin: 20px;
+    padding: 20px;
 }
-.intro-heading {
+.section-heading {
     font-size: 1.25em;
     padding-bottom: 10px;
     font-weight: bold;
@@ -116,10 +119,10 @@ li {
 .accom-info {
     padding-left: 50px;
 }
-#gettinghere {
+/*#gettinghere {
     margin: 20px 0px 20px 0px;
 
-}
+}*/
 
 footer {
     margin: 0;
