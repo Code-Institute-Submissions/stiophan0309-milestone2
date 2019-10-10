@@ -87,6 +87,7 @@ header {
 }
 .section-title {
     font-family: 'Marcellus SC', serif;
+    color: #ff4000;
 }
 .intro-text {
     margin-top: 50px;
@@ -112,6 +113,7 @@ li {
 .listheading {
     font-size: 1.5em;
     font-weight: bold;
+    color: #ffd826;
 }
 .accom {
     margin: 10px 0px 10px 0px;
