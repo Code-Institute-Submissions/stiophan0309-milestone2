@@ -121,6 +121,14 @@ li {
 .accom-info {
     padding-left: 50px;
 }
+.ext-link {
+    text-decoration: none;
+    color: #ffffff;
+}
+.ext-link:hover {
+    text-decoration: none;
+    color: #ff4000;
+}
 /*#gettinghere {
     margin: 20px 0px 20px 0px;
 
