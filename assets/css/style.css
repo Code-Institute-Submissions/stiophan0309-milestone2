@@ -93,6 +93,10 @@ header {
 img {
     border: 1px solid #136C69;
 }
+.intro-text {
+    margin: 50px;
+    text-align: center;
+}
 .badge-danger {
     border-radius: 25px;
     padding: 10px;
