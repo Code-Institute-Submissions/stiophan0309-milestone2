@@ -5,6 +5,7 @@
 html, body {
     background-color: #000000;
     color: #ffffff;
+    font-size: 16px;
 }
 
 p, a, ul, ol {
@@ -79,12 +80,7 @@ header {
     margin: 20px;
     padding: 20px;
 }
-.section-heading {
-    font-size: 1.25em;
-    padding-bottom: 10px;
-    font-weight: bold;
-    text-align: center;
-}
+
 .section-title {
     font-family: 'Marcellus SC', serif;
     color: #ff4000;
@@ -93,9 +89,16 @@ header {
 img {
     border: 1px solid #136C69;
 }
+.intro-title {
+    font-size: 1.5em;
+    padding-bottom: 10px;
+    font-weight: bold;
+    text-align: center;
+}
 .intro-text {
     margin: 50px;
     text-align: center;
+    font-size: 1.25em;
 }
 .badge-danger {
     border-radius: 25px;
