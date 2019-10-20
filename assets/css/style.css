@@ -21,6 +21,10 @@ div#map {
     border: 1px solid #136C69;
     margin: 0px;
 }
+#content {
+    color: #136C69;
+    z-index: 999;
+}
 /* Header */
 header {
     margin: 0;
