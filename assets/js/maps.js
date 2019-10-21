@@ -1,5 +1,6 @@
 function initMap() {
   var center = { lat: 57.074732, lng: -5.592170 };
+  var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   var locations = [
     ['Ladhar Bheinn<br>\
     Knoydart<br>\
