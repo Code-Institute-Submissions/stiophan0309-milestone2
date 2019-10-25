@@ -104,7 +104,7 @@ function initMap() {
                     "featureType": "road",
                     "elementType": "geometry",
                     "stylers": [{
-                        "color": "#f5f1e6"
+                        "color": "#ff0000"
                     }]
                 },
                 {
@@ -125,14 +125,14 @@ function initMap() {
                     "featureType": "road.arterial",
                     "elementType": "geometry",
                     "stylers": [{
-                        "color": "#fdfcf8"
+                        "color": "#ff0000"
                     }]
                 },
                 {
                     "featureType": "road.highway",
                     "elementType": "geometry",
                     "stylers": [{
-                        "color": "#f8c967"
+                        "color": "#229516"
                     }]
                 },
                 {
@@ -201,7 +201,7 @@ function initMap() {
                     "featureType": "water",
                     "elementType": "geometry.fill",
                     "stylers": [{
-                        "color": "#b9d3c2"
+                        "color": "#2a93f0"
                     }]
                 },
                 {
