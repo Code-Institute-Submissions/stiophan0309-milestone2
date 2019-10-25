@@ -343,14 +343,15 @@ function initMap() {
                 "</div>"
             ]
         ];
-
+        var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         var gmarkers = [];
         var infowindow = new google.maps.InfoWindow({});
         for (var i = 0; i < locations.length; i++) {
             var marker = new google.maps.Marker({
                 position: new google.maps.LatLng(locations[i][1], locations[i][2]),
                 map: map,
-                title: locations[i][0]
+                title: locations[i][0],
+                label: labels[i % labels.length]
             });
 
             google.maps.event.addListener(marker, 'click', (function(marker, i) {
