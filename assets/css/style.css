@@ -7,6 +7,8 @@ html, body {
     color: #ffffff;
     font-size: 16px;
     scroll-behavior: smooth;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(19,108,105,1) 39%, rgba(104,175,174,1) 87%);
 }
 
 p, a, ul, ol {
