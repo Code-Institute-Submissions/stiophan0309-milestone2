@@ -24,7 +24,7 @@ div#map {
     border: 1px solid #136C69;
     margin: 0px;
 }
-#content {
+.content {
     color: #136C69;
     z-index: 999;
     max-width: 300px;
