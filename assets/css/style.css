@@ -85,8 +85,11 @@ header {
     border-width: 1px 1px 5px 1px;
     border-style: solid;
     border-color: #136C69;
-    margin: 240px 20px 20px 20px;
+    margin: 20px;
     padding: 20px;
+}
+.top {
+    margin-top: 240px;
 }
 
 .section-title {
