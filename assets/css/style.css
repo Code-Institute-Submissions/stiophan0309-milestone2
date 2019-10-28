@@ -161,9 +161,10 @@ li {
 }*/
 
 footer {
-    margin: 0;
+    margin: 50px 0px 0px 0px;
     background-color: #136C69;
     padding-top: 20px;
+    border-top: 1px solid #fff;
 }
 .legal {
     color: #FEFBD0;
