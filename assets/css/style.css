@@ -27,7 +27,7 @@ div#map {
 .content {
     color: #136C69;
     z-index: 999;
-    max-width: 300px;
+ /*   max-width: 300px;*/
 }
 /* Header */
 header {

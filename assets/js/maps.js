@@ -247,26 +247,30 @@ function initMap() {
         var content = [
             ['Ladhar Bheinn', '<div class="content">' +
                 "<h3>Ladhar Bheinn</h3>" +
-                "<p>Ladhar Bheinn is the highest munro on the Knoydart peninsula</p>" +
-                "<p><a class='btn btn-sm' href='#' target='_blank'><span class='sr-only'>Click Here</span>Click Here</a></p>" +
+                "<img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
+                "<p>Ladhar Bheinn is the highest munro on the Knoydart peninsula and regarded by many as one of the finest mountains in Scotland.  It has dramatic ridges, huge crags and offers superb views</p>" +
+                "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/ladhar-bheinn' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Luinne Bheinn', '<div class="content">' +
                 "<h3>Luinne Bheinn</h3>" +
-                "<p></p>" +
-                "<p><a class='btn btn-sm' href='#' target='_blank'><span class='sr-only'>Click Here</span>Click Here</a></p>" +
+                "<img src='https://images.on-this.website/22407_13680161084ffb09045cf75.jpg'>" +
+                "<p>Luinne Bheinn, often misprounced as 'Loony Bin' is a very rough and rocky mountain on the head of Knoydart, and is quite often climbed along with Meall Buidhe</p>" +
+                "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/luinne-bheinn' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Meall Buidhe', '<div class="content">' +
                 "<h3>Meall Buidhe</h3>" +
-                "<p></p>" +
-                "<p><a class='btn btn-sm' href='#' target='_blank'><span class='sr-only'>Click Here</span>Click Here</a></p>" +
+                "<img src='http://www.munromagic.com/MunroImages/CNV00028.jpg'>" +
+                "<p>Meall Buidhe (lit. Yellow Knoll) is one of three munros on Knoydart and due to it's rocky slopes, requires considerable effort during ascent</p>" +
+                "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/meall-buidhe-knoydart' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Sgùrr na Cìche', '<div class="content">' +
                 "<h3>Sgùrr na Cìche</h3>" +
-                "<p></p>" +
-                "<p><a class='btn btn-sm' href='#' target='_blank'><span class='sr-only'>Click Here</span>Click Here</a></p>" +
+                "<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Sgurr_na_Ciche.jpg'>" +
+                "<p>Sgùrr na Cìche sits on the edge of Knoydart and is a fine example of a conical shaped mountain and once climbed it offers magnificent views of Loch Nevis</p>" +
+                "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/sgurr-na-ciche' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ]
         ];
