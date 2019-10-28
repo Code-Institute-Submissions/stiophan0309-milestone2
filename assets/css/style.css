@@ -87,6 +87,8 @@ header {
     border-color: #136C69;
     margin: 20px;
     padding: 20px;
+    background: rgb(0,0,0);
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(19,108,105,1) 24%);
     webkit-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
     -moz-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
     box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
@@ -94,7 +96,6 @@ header {
 .top {
     margin-top: 240px;
 }
-
 .section-title {
     font-family: 'Marcellus SC', serif;
     color: #ff4000;
