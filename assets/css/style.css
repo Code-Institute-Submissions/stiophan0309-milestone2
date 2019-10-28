@@ -87,6 +87,9 @@ header {
     border-color: #136C69;
     margin: 20px;
     padding: 20px;
+    webkit-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
+    box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
 }
 .top {
     margin-top: 240px;
