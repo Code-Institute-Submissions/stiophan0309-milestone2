@@ -246,6 +246,7 @@ function initMap() {
             ["Glaschoille House", 57.037605, -5.730124],
             ["Ivy Cottage", 57.038540, -5.685291],
             ["Knoydart Hide", 57.037842, -5.683945],
+            ["Knoydart House", 57.038013, -5.683956],
             ["Lochside", 57.040524, -5.697796],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
@@ -315,6 +316,13 @@ function initMap() {
                 "<img src='https://dimg.visitscotland.com/wsimgs/Emily_and_Gareth_Knoydart_Hide_2014-9_942083541.jpg'>" +
                 "<p>Knoydart hide is luxury self-catering accomodation aimed at privacy and offers a luxury spa, a hot tub and a masseuse</p>" +
                 "<p><a class='btn btn-sm' href='https://www.knoydarthide.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+           ['Knoydart House', '<div class="content">' +
+                "<h3>Knoydart House</h3>" +
+                "<img src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/03/19/18/581626.bin?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5'>" +
+                "<p>Knoydart House Studio Room boasts a hot tub and a masseuse</p>" +
+                "<p><a class='btn btn-sm' href='http://www.knoydarthouse.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Lochside', '<div class="content">' +
