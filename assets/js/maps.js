@@ -242,6 +242,7 @@ function initMap() {
             ["Strathan", 56.969871, -5.326304],
             ["Kilchoan Estate", 57.028939, -5.661221],
             ["Camusblathan", 57.082002, -5.768341],
+            ["Creag Eiridh", 57.040676, -5.702373],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -282,6 +283,13 @@ function initMap() {
                 "<img src='http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254'>" +
                 "<p>Camusblathan is a gorgeous cottage by the sea, with incredible views. It is located in Airor, on the western tip of Knoydart on the Sound of Sleat looking over to Skye</p>" +
                 "<p><a class='btn btn-sm' href='http://www.camusblathan.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Creag Eiridh', '<div class="content">' +
+                "<h3>Creag Eiridh</h3>" +
+                "<img src='http://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg'>" +
+                "<p>In a secluded rural holiday location charming Creag Eiridh is a recently refurbished and immaculately presented 4-bedroom luxury holiday house. It is situated in a breathtaking position on the northern shore of Loch Nevis in the Western Highlands of Scotland</p>" +
+                "<p><a class='btn btn-sm' href='http://www.creageiridh.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Ladhar Bheinn', '<div class="content">' +
