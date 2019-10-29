@@ -238,6 +238,7 @@ function initMap() {
 
         var locations = [
             ["Inverie", 57.038531, -5.684935],
+            ["Kinlochhourn", 57.104270, -5.387123],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -252,6 +253,13 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://en.wikipedia.org/wiki/Inverie' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
+            ['Kinlochhourn', '<div class="content">' +
+                "<h3>Kinloch Hourn</h3>" +
+                "<img src='https://www.undiscoveredscotland.co.uk/knoydart/kinlochhourn/images/kinlochhourn-450.jpg'>" +
+                "<p>Kinloch Hourn is reached by a single track road from the A87 near Invergarry and is one of the most popular places to access Knoydart</p>" +
+                "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&t=24694' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
             ['Ladhar Bheinn', '<div class="content">' +
                 "<h3>Ladhar Bheinn</h3>" +
                 "<img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
@@ -259,6 +267,7 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/ladhar-bheinn' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
+
             ['Luinne Bheinn', '<div class="content">' +
                 "<h3>Luinne Bheinn</h3>" +
                 "<img src='https://images.on-this.website/22407_13680161084ffb09045cf75.jpg'>" +
