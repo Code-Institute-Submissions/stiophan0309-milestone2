@@ -244,6 +244,8 @@ function initMap() {
             ["Camusblathan", 57.082002, -5.768341],
             ["Creag Eiridh", 57.040676, -5.702373],
             ["Glaschoille House", 57.037605, -5.730124],
+            ["Ivy Cottage", 57.038540, -5.685291],
+            ["Knoydart Hide", 57.037842, -5.683945],
             ["Lochside", 57.040524, -5.697796],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
@@ -299,6 +301,20 @@ function initMap() {
                 "<img src='https://bestscottishcottages.co.uk/?page_type=show_image&img=Glaschoille_Exterior3.jpg&q=65'>" +
                 "<p>Glaschoille House as well as being a self-catering holiday home is also a wedding venue located 2 miles west of Inverie</p>" +
                 "<p><a class='btn btn-sm' href='https://www.glaschoille.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Ivy Cottage', '<div class="content">' +
+                "<h3>Ivy Cottage</h3>" +
+                "<img src='https://www.assc.co.uk/wp-content/uploads/asscmembers/3043/2070/0277kq25_medium.jpg'>" +
+                "<p>Ivy Cottage is a Traditional Highland Estate holiday cottage on the remote Knoydart Peninsula, a haven for hill walkers, mountaineers, wildlife enthusiasts and those who just want to get away from the hurly-burly of urban life</p>" +
+                "<p><a class='btn btn-sm' href='http://www.ivycottageknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Knoydart Hide', '<div class="content">' +
+                "<h3>Knoydart Hide</h3>" +
+                "<img src='https://dimg.visitscotland.com/wsimgs/Emily_and_Gareth_Knoydart_Hide_2014-9_942083541.jpg'>" +
+                "<p>Knoydart hide is luxury self-catering accomodation aimed at privacy and offers a luxury spa, a hot tub and a masseuse</p>" +
+                "<p><a class='btn btn-sm' href='https://www.knoydarthide.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Lochside', '<div class="content">' +
