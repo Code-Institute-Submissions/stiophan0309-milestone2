@@ -239,6 +239,7 @@ function initMap() {
         var locations = [
             ["Inverie", 57.038531, -5.684935],
             ["Kinlochhourn", 57.104270, -5.387123],
+            ["Strathan", 56.969871, -5.326304],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -260,6 +261,14 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&t=24694' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
+            ['Strathan', '<div class="content">' +
+                "<h3>Strathan (Loch Arkaig)</h3>" +
+                "<img src='https://s0.geograph.org.uk/geophotos/03/57/05/3570579_97392282.jpg'>" +
+                "<p>Strathan is a hamlet at the head of Loch Arkaig and is accessed via Spean Bridge on the A82.  This is usually the most common wakling route from the south and then via Glen Dessary to Sourlies at the head of Loch Nevis</p>" +
+                "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=25&t=8154' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+
             ['Ladhar Bheinn', '<div class="content">' +
                 "<h3>Ladhar Bheinn</h3>" +
                 "<img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
