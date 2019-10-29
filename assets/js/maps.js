@@ -243,6 +243,8 @@ function initMap() {
             ["Kilchoan Estate", 57.028939, -5.661221],
             ["Camusblathan", 57.082002, -5.768341],
             ["Creag Eiridh", 57.040676, -5.702373],
+            ["Glaschoille House", 57.037605, -5.730124],
+            ["Lochside", 57.040524, -5.697796],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -290,6 +292,20 @@ function initMap() {
                 "<img src='http://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg'>" +
                 "<p>In a secluded rural holiday location charming Creag Eiridh is a recently refurbished and immaculately presented 4-bedroom luxury holiday house. It is situated in a breathtaking position on the northern shore of Loch Nevis in the Western Highlands of Scotland</p>" +
                 "<p><a class='btn btn-sm' href='http://www.creageiridh.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Glaschoille House', '<div class="content">' +
+                "<h3>Glaschoille House</h3>" +
+                "<img src='https://bestscottishcottages.co.uk/?page_type=show_image&img=Glaschoille_Exterior3.jpg&q=65'>" +
+                "<p>Glaschoille House as well as being a self-catering holiday home is also a wedding venue located 2 miles west of Inverie</p>" +
+                "<p><a class='btn btn-sm' href='https://www.glaschoille.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Lochside', '<div class="content">' +
+                "<h3>Lochside</h3>" +
+                "<img src='https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg'>" +
+                "<p>Lochside is a superb holiday cottage located in Inverie with amongst other things, a hot tub</p>" +
+                "<p><a class='btn btn-sm' href='http://www.lochsideknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Ladhar Bheinn', '<div class="content">' +
