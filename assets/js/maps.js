@@ -241,6 +241,7 @@ function initMap() {
             ["Kinlochhourn", 57.104270, -5.387123],
             ["Strathan", 56.969871, -5.326304],
             ["Kilchoan Estate", 57.028939, -5.661221],
+            ["Camusblathan", 57.082002, -5.768341],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -269,11 +270,18 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=25&t=8154' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Klchoan Estate', '<div class="content">' +
+            ['Kilchoan Estate', '<div class="content">' +
                 "<h3>Kilchoan Estate</h3>" +
                 "<img src='https://static.wixstatic.com/media/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg/v1/fill/w_262,h_192,al_c,q_80,usm_0.66_1.00_0.01/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg'>" +
                 "<p>Kilchoan Estate, located to the south east of Inverie offers 5 self catering properties and one bunkhouse including Tigh na Dobhran pictured above</p>" +
                 "<p><a class='btn btn-sm' href='https://www.kilchoan-knoydart.com/accommodation' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Camusblathan', '<div class="content">' +
+                "<h3>Camusblathan</h3>" +
+                "<img src='http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254'>" +
+                "<p>Camusblathan is a gorgeous cottage by the sea, with incredible views. It is located in Airor, on the western tip of Knoydart on the Sound of Sleat looking over to Skye</p>" +
+                "<p><a class='btn btn-sm' href='http://www.camusblathan.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Ladhar Bheinn', '<div class="content">' +
@@ -283,7 +291,6 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/ladhar-bheinn' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-
             ['Luinne Bheinn', '<div class="content">' +
                 "<h3>Luinne Bheinn</h3>" +
                 "<img src='https://images.on-this.website/22407_13680161084ffb09045cf75.jpg'>" +
