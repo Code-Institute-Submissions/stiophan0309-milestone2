@@ -237,7 +237,7 @@ function initMap() {
         map.setMapTypeId('styled_map');
 
         var locations = [
-
+            ["Inverie", 57.038531, -5.684935],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -245,6 +245,13 @@ function initMap() {
         ];
 
         var content = [
+            ['Inverie', '<div class="content">' +
+                "<h3>Inverie</h3>" +
+                "<img src='https://upload.wikimedia.org/wikipedia/commons/0/04/Inverie_-_geograph.org.uk_-_920860.jpg'>" +
+                "<p>Inverie (pop. 70), is the main village and settlement on the Knoydart peninsula, and due to it not being connected to the national road network it has a Guiness National Record for remoteness</p>" +
+                "<p><a class='btn btn-sm' href='https://en.wikipedia.org/wiki/Inverie' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
             ['Ladhar Bheinn', '<div class="content">' +
                 "<h3>Ladhar Bheinn</h3>" +
                 "<img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
