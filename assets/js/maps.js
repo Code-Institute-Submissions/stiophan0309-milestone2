@@ -249,6 +249,7 @@ function initMap() {
             ["Knoydart House", 57.038013, -5.683956],
             ["Knoydart Lodge", 57.033227, -5.668983],
             ["Lochside", 57.040524, -5.697796],
+            ["The Old Byre", 57.032067, -5.666617],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -340,6 +341,14 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='http://www.lochsideknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
+           ['The Old Byre', '<div class="content">' +
+                "<h3>The Old Byre</h3>" +
+                "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAvbh-hm8clkAdtB6KYJM4OugFuMsgQE5pYRMJwGG_Urn7OiiX'>" +
+                "<p>The Old Byre is 15 minutes from Inverie Pier and has five bedrooms and can take up to 14 people</p>" +
+                "<p><a class='btn btn-sm' href='http://www.theoldbyreknoydart.com' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+
             ['Ladhar Bheinn', '<div class="content">' +
                 "<h3>Ladhar Bheinn</h3>" +
                 "<img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
