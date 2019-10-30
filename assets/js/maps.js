@@ -247,6 +247,7 @@ function initMap() {
             ["Ivy Cottage", 57.038540, -5.685291],
             ["Knoydart Hide", 57.037842, -5.683945],
             ["Knoydart House", 57.038013, -5.683956],
+            ["Knoydart Lodge", 57.033227, -5.668983],
             ["Lochside", 57.040524, -5.697796],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
@@ -323,6 +324,13 @@ function initMap() {
                 "<img src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/03/19/18/581626.bin?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5'>" +
                 "<p>Knoydart House Studio Room boasts a hot tub and a masseuse</p>" +
                 "<p><a class='btn btn-sm' href='http://www.knoydarthouse.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+          ['Knoydart Lodge', '<div class="content">' +
+                "<h3>Knoydart Lodge</h3>" +
+                "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ2Q3abjZvdp1Q9RFeMMMhrh2xH94SplXv6ut9-FIMF10JG5ce'>" +
+                "<p>Knoydart Lodge is a high quality, low cost bunkhouse style self-catering facility for groups of 2-20</p>" +
+                "<p><a class='btn btn-sm' href='https://www.knoydartlodge.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Lochside', '<div class="content">' +
