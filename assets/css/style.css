@@ -123,6 +123,15 @@ img {
     border: 1px solid #ffffff;
     -webkit-background-clip: padding-box;
 }
+.card {
+    width: 18rem;
+    background-color: #136C69;
+    border: 1px solid #013936;
+    background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(19,108,105,1) 24%);
+    webkit-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
+    -moz-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
+    box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
+}
 ul, ol {
     list-style-type: none;
 }
