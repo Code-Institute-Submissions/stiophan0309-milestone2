@@ -339,15 +339,43 @@
 		document.getElementById('output').innerHTML = output;
 	})
 }*/
-
+/*
 fetch ("./test.json")
     .then(function(resp) {
         return resp.json();
     })
     .then(function(data) {
-        console.log(data);
-    });
+        /*console.log(data);
+        let output = '<h2>Users</h2>';
+		data.forEach(function(user){
+			output += `
+			<ul>
+			<li>ID: ${user.fruit}</li>
+			<li>Name: ${user.size}<li>
+			</ul>
+			`;
 
+    })
+*/
+        fetch('./test.json')
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+        function appendData(data) {
+            var mainContainer = document.getElementById('output');
+            for (var i = 0; i < data.length; i++) {
+                var div = document.createElement("div");
+                /*div.innerHTML = ' Name: ' + data[i].firstName + ' ' + data[i].lastName;*/
+                div.innerHTML += '<p class="act-heading">Name: ' + data[i].firstName + ' ' + '</p>' + '<p class="act-heading">' + data[i].lastName + '</p>';
+                mainContainer.appendChild(div);
+            }
+        }
     </script>
 
     <footer>
