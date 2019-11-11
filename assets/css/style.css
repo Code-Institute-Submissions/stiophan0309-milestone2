@@ -123,6 +123,12 @@ img {
     border: 1px solid #ffffff;
     -webkit-background-clip: padding-box;
 }
+#output {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
 .card {
     width: 18rem;
     background-color: #136C69;
