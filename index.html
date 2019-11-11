@@ -375,7 +375,16 @@ fetch ("./test.json")
             for (var i = 0; i < data.length; i++) {
                 var div = document.createElement("div");
                 /*div.innerHTML = ' Name: ' + data[i].firstName + ' ' + data[i].lastName;*/
-                div.innerHTML += '<p class="act-heading">Name: ' + data[i].firstName + ' ' + '</p>' + '<p class="act-heading">' + data[i].lastName + '</p>';
+                /*div.innerHTML += '<p class="act-heading">Name: ' + data[i].firstName + ' ' + '</p>' + '<p class="act-heading">' + data[i].lastName + '</p>';*/
+                div.innerHTML = '<div class="card">' +
+                                 '<img src="' + data[i].image + '" class="card-img-top" alt="Kilchoan Estate">' + 
+                                 '<div class="card-body">' + 
+                                    '<h5 class="card-title">' + data[i].name + '</h5>' +
+                                    '<p class="card-text">' + data[i].description + '</p>' + 
+                                    '<a href="#" class="btn btn-info">' + 'Home Page' + '</a>' + 
+                                 '</div>' + 
+                                 '</div>';
+
                 mainContainer.appendChild(div);
             }
         }

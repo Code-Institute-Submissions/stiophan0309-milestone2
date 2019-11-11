@@ -1,17 +1,17 @@
 [
     {
-        "id": "1",
-        "firstName": "John",
-        "lastName": "Doe"
+        "image": "http://www.deadlinenews.co.uk/wp-content/uploads/2015/04/web-KILCHOAN_ESTATE_DN06.jpg",
+        "name": "Kilchoan Estate",
+        "description": "Text Goes Here"
     },
     {
-        "id": "2",
-        "firstName": "Mary",
-        "lastName": "Peterson"
+        "image": "http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254",
+        "name": "Camusblathan",
+        "description": "Text Goes Here"
     },
     {
-        "id": "3",
-        "firstName": "George",
-        "lastName": "Hansen"
+        "image": "http://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg",
+        "name": "Creag Eiridh",
+        "description": "Text Goes Here"
     }
 ]
