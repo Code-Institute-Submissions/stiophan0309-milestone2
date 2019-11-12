@@ -2,25 +2,25 @@
     {
         "image": "http://www.deadlinenews.co.uk/wp-content/uploads/2015/04/web-KILCHOAN_ESTATE_DN06.jpg",
         "name": "Kilchoan Estate",
-        "description": "Text Goes Here",
-        "url": ""
+        "description": "Kilchoan Estate, located to the south east of Inverie offers 5 self catering properties and one bunkhouse including Tigh na Dobhran pictured above",
+        "url": "https://www.kilchoan-knoydart.com/accommodation"
     },
     {
         "image": "http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254",
         "name": "Camusblathan",
-        "description": "Text Goes Here",
-        "url": ""
+        "description": "Camusblathan is a gorgeous cottage by the sea, with incredible views. It is located in Airor, on the western tip of Knoydart on the Sound of Sleat looking over to Skye",
+        "url": "http://www.camusblathan.co.uk"
     },
     {
         "image": "http://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg",
         "name": "Creag Eiridh",
-        "description": "Text Goes Here",
-        "url": ""
+        "description": "In a secluded rural holiday location charming Creag Eiridh is a recently refurbished and immaculately presented 4-bedroom luxury holiday house. It is situated in a breathtaking position on the northern shore of Loch Nevis in the Western Highlands of Scotland",
+        "url": "http://www.creageiridh.co.uk"
     },
    {
         "image": "https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg",
         "name": "Lochside House",
-        "description": "Text Goes Here",
-        "url": ""
+        "description": "Lochside is a superb holiday cottage located in Inverie with amongst other things, a hot tub",
+        "url": "http://www.lochsideknoydart.co.uk"
     }
 ]
