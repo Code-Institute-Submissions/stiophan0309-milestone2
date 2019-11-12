@@ -34,7 +34,7 @@
                             </li>
 
                             <li class="nav-item">
-                                <a class="nav-link" href="#accomodation">Accomodation <span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="#accommodation">Accommodation <span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#activities">Activities</a>
@@ -256,7 +256,7 @@
                 </div>
             </div> -->
 
-            <div class="col-sm-12 wrap">
+            <div id="accommodation" class="col-sm-12 wrap">
                 <div class="section">
                     <div class='card-deck'></div> <!-- Div where JSON data will display-->
                 </div>
@@ -378,8 +378,8 @@ fetch ("./test.json")
                 var div = document.createElement("div");
                 /*div.innerHTML = ' Name: ' + data[i].firstName + ' ' + data[i].lastName;*/
                 /*div.innerHTML += '<p class="act-heading">Name: ' + data[i].firstName + ' ' + '</p>' + '<p class="act-heading">' + data[i].lastName + '</p>';*/
-                div.innerHTML =  '<div class="card">' +
-                                 '<img class="card-img-top" src="' + data[i].image + '" class="card-img-top" alt="' + data[i].name + '">' + 
+                div.innerHTML =  '<div class="card h-100 card mb-3">' +
+                                 '<img class="card-img-top img-fluid" src="' + data[i].image + '" class="card-img-top" alt="' + data[i].name + '">' + 
                                  '<div class="card-body">' + 
                                     '<h5 class="card-title">' + data[i].name + '</h5>' +
                                     '<p class="card-text">' + data[i].description + '</p>' + 
