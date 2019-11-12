@@ -17,10 +17,64 @@
         "description": "In a secluded rural holiday location charming Creag Eiridh is a recently refurbished and immaculately presented 4-bedroom luxury holiday house. It is situated in a breathtaking position on the northern shore of Loch Nevis in the Western Highlands of Scotland",
         "url": "http://www.creageiridh.co.uk"
     },
+    {
+        "image": "https://bestscottishcottages.co.uk/?page_type=show_image&img=Glaschoille_Exterior3.jpg&q=65",
+        "name": "Glaschoille House",
+        "description": "Glaschoille House as well as being a self-catering holiday home is also a wedding venue located 2 miles west of Inverie",
+        "url": "https://www.glaschoille.co.uk"
+    },
+    {
+        "image": "https://www.assc.co.uk/wp-content/uploads/asscmembers/3043/2070/0277kq25_medium.jpg",
+        "name": "Ivy Cottage",
+        "description": "Ivy Cottage is a Traditional Highland Estate holiday cottage on the remote Knoydart Peninsula, a haven for hill walkers, mountaineers, wildlife enthusiasts and those who just want to get away from the hurly-burly of urban life",
+        "url": "http://www.ivycottageknoydart.co.uk"
+    },
+    {
+        "image": "https://dimg.visitscotland.com/wsimgs/Emily_and_Gareth_Knoydart_Hide_2014-9_942083541.jpg",
+        "name": "Knoydart Hide",
+        "description": "Knoydart hide is luxury self-catering accomodation aimed at privacy and offers a luxury spa, a hot tub and a masseuse",
+        "url": "https://www.knoydarthide.co.uk"
+    },
    {
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/03/19/18/581626.bin?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5",
+        "name": "Knoydart House",
+        "description": "Knoydart House Studio Room boasts a hot tub and a masseuse",
+        "url": "http://www.knoydarthouse.co.uk"
+    },
+   {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ2Q3abjZvdp1Q9RFeMMMhrh2xH94SplXv6ut9-FIMF10JG5ce",
+        "name": "Knoydart Lodge",
+        "description": "Knoydart Lodge is a high quality, low cost bunkhouse style self-catering facility for groups of 2-20",
+        "url": "https://www.knoydartlodge.co.uk"
+    },
+    {
+        "image": "https://www.assc.co.uk/wp-content/uploads/asscmembers/3043/2070/0277kq25_medium.jpg",
+        "name": "Ivy Cottage",
+        "description": "Ivy Cottage is a Traditional Highland Estate holiday cottage on the remote Knoydart Peninsula, a haven for hill walkers, mountaineers, wildlife enthusiasts and those who just want to get away from the hurly-burly of urban life",
+        "url": "http://www.ivycottageknoydart.co.uk"
+    },
+    {
+        "image": "https://dimg.visitscotland.com/wsimgs/Emily_and_Gareth_Knoydart_Hide_2014-9_942083541.jpg",
+        "name": "Knoydart Hide",
+        "description": "Knoydart hide is luxury self-catering accomodation aimed at privacy and offers a luxury spa, a hot tub and a masseuse",
+        "url": "https://www.knoydarthide.co.uk"
+    },
+   {
+        "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/03/19/18/581626.bin?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5",
+        "name": "Knoydart House",
+        "description": "Knoydart House Studio Room boasts a hot tub and a masseuse",
+        "url": "http://www.knoydarthouse.co.uk"
+    },
+    {
         "image": "https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg",
         "name": "Lochside House",
-        "description": "Lochside is a superb holiday cottage located in Inverie with amongst other things, a hot tub",
+        "description": "Lochside House is a superb holiday cottage located in Inverie with amongst other things, a hot tub",
         "url": "http://www.lochsideknoydart.co.uk"
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAvbh-hm8clkAdtB6KYJM4OugFuMsgQE5pYRMJwGG_Urn7OiiX",
+        "name": "The Old Byre",
+        "description": "The Old Byre is 15 minutes from Inverie Pier and has five bedrooms and can take up to 14 people",
+        "url": "http://www.theoldbyreknoydart.com"
     }
 ]
