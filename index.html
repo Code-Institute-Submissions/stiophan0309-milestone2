@@ -89,42 +89,6 @@
                 </div>
             </div>
 
-            <!--
-                        <li class="listheading">Bed & Breakfast</li>
-                            <ul>
-                                <p class="accom-info">Knoydart offers some outstanding B&Bs for the budget wary traveller, click on the item to go to each B&B website.</p>
-                                <li><a class="ext-link" href="#">Doune Bay Lodge</a></li>
-                                <li><a class="ext-link" href="#">Doune Stone Lodges</a></li>
-                                <li><a class="ext-link" href="#">The Gathering</a></li>
-                                <li><a class="ext-link" href="#">Knoydart River Cottage</a></li>
-                                <li><a class="ext-link" href="#">Knoydart Snugs (by The Old Forge)</a></li>
-                                <li><a class="ext-link" href="#">Westfield</a></li>
-                            </ul>
-                        <li class="listheading">Bunkhouses and Camping</li>
-                            <ul>
-                                <li>Druim Bothy <span class="badge badge-danger">E</span></li>
-                                <p class="accom-info">Druim Bothy is situated on at the foot of Glen Meadall on Kilchoan Estate, approximately 1 hour's walk from Inverie village.
-                                It is a renovated Shepherd's bothy and sleeps 10+ on a sleeping platform and has easy access to
-                                Meall Buidhe, Luinne Bheinn, Sgùrr na Cìche, Sourlies, Ben Aden and Barrisdale.<br>
-                                Click <a class="ext-link" href="#">here</a> to visit Druim Bothy on the Kilchoan Estate website for more details.
-                                </p>
-                                <li>Knoydart Foundation Bunkhouse <span class="badge badge-danger">J</span></li>
-                                <p class="accom-info">Knoydart Foundation Bunkhouse is a community run enterprise which re-invests any income to local community projects
-                                and it runs on green hydro power, ideal for the environmentally minded.  The Bunkhouse is half a mile south-east of Inverie village and offers discounts on
-                                school, youth, Scouts and Duke of Edinburgh's Award groups.<br>
-                                Click <a class="ext-link" href="#">here</a> to visit Knoydart Foundation Bunkhouse website for more details.
-                                </p>
-                                <li>Knoydart Foundation Campsite <span class="badge badge-danger">J</span></li>
-                                <p class="accom-info">The Long Beach Campsite run by the Knoydart Foundation is located on the shores of Loch Nevis adjacent to the Knoydart
-                                Foundation Bunkhouse and is ideal for the more adventurous.   It is a multi-use site and social events take place as well.<br>
-                                lick <a class="ext-link" href="#">here</a> to visit Knoydart Foundation website for more details.
-                                 </p>
-                            </ul>
-                    </ol> 
-
-                </div>
-            </div> -->
-
             <div id="accommodation" class="col-sm-12 wrap">
                 <div class="section">
                     <div class='card-deck'></div> <!-- Div where JSON data will display-->
@@ -196,41 +160,6 @@
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXW0A3ny94RlpBJtj0ozwni2nc31wB51Y&callback=initMap"></script>
     <script src="assets/js/maps.js"></script>
     <script>
-
-    /*function getUser(){
-	fetch('./test.json')
-	.then((res) => res.json())
-	.then((data) => {
-		let output = '<h2>Users</h2>';
-		data.forEach(function(user){
-			output += `
-			<ul>
-			<li>ID: ${user.fruit}</li>
-			<li>Name: ${user.size}<li>
-			</ul>
-			`;
-		});
-		document.getElementById('output').innerHTML = output;
-	})
-}*/
-/*
-fetch ("./test.json")
-    .then(function(resp) {
-        return resp.json();
-    })
-    .then(function(data) {
-        /*console.log(data);
-        let output = '<h2>Users</h2>';
-		data.forEach(function(user){
-			output += `
-			<ul>
-			<li>ID: ${user.fruit}</li>
-			<li>Name: ${user.size}<li>
-			</ul>
-			`;
-
-    })
-*/
         fetch('./test.json')
             .then(function (response) {
                 return response.json();
