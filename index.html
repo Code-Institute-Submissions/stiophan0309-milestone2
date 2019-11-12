@@ -89,7 +89,7 @@
                 </div>
             </div>
 
-            <div id="accomodation" class="col-sm-12 wrap">
+            <!-- <div id="accomodation" class="col-sm-12 wrap">
                 <div class="section">
                 <h3 class="section-title">Accomodation</h3>
                 <p> There are several options for accomodation in Knoydart, depending on the nature of your stay:
@@ -251,14 +251,14 @@
                                 lick <a class="ext-link" href="#">here</a> to visit Knoydart Foundation website for more details.
                                  </p>
                             </ul>
-                    </ol> -->
+                    </ol> 
 
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-sm-12 wrap">
                 <div class="section">
-                    <div id="output"></div> <!-- Div where JSON data will display-->
+                    <div class='card-deck'></div> <!-- Div where JSON data will display-->
                 </div>
             </div>
 
@@ -373,7 +373,7 @@ fetch ("./test.json")
                 console.log('error: ' + err);
             });
         function appendData(data) {
-            var mainContainer = document.getElementById('output');
+            var mainContainer = document.getElementsByClassName('card-deck')[0];
             for (var i = 0; i < data.length; i++) {
                 var div = document.createElement("div");
                 /*div.innerHTML = ' Name: ' + data[i].firstName + ' ' + data[i].lastName;*/
