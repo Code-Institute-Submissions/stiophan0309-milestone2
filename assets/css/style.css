@@ -131,6 +131,7 @@ img {
 }
 .card {
     width: 18rem;
+    margin-bottom: 20px; !important
     background-color: #136C69;
     border: 1px solid #013936;
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(19,108,105,1) 24%);
