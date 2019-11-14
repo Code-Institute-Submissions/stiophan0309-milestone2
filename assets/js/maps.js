@@ -257,122 +257,122 @@ function initMap() {
         ];
 
         var content = [
-            ['Inverie', '<div class="content">' +
+            ['Inverie', '<div class="card h-100 card mb-3">' +
                 "<h3>Inverie</h3>" +
-                "<img src='https://upload.wikimedia.org/wikipedia/commons/0/04/Inverie_-_geograph.org.uk_-_920860.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://upload.wikimedia.org/wikipedia/commons/0/04/Inverie_-_geograph.org.uk_-_920860.jpg'>" +
                 "<p>Inverie (pop. 70), is the main village and settlement on the Knoydart peninsula, and due to it not being connected to the national road network it has a Guiness National Record for remoteness</p>" +
                 "<p><a class='btn btn-sm' href='https://en.wikipedia.org/wiki/Inverie' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Kinlochhourn', '<div class="content">' +
+            ['Kinlochhourn', '<div class="card h-100 card mb-3">' +
                 "<h3>Kinloch Hourn</h3>" +
-                "<img src='https://www.undiscoveredscotland.co.uk/knoydart/kinlochhourn/images/kinlochhourn-450.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://www.undiscoveredscotland.co.uk/knoydart/kinlochhourn/images/kinlochhourn-450.jpg'>" +
                 "<p>Kinloch Hourn is reached by a single track road from the A87 near Invergarry and is one of the most popular places to access Knoydart</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&t=24694' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Strathan', '<div class="content">' +
+            ['Strathan', '<div class="card h-100 card mb-3">' +
                 "<h3>Strathan (Loch Arkaig)</h3>" +
-                "<img src='https://s0.geograph.org.uk/geophotos/03/57/05/3570579_97392282.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://s0.geograph.org.uk/geophotos/03/57/05/3570579_97392282.jpg'>" +
                 "<p>Strathan is a hamlet at the head of Loch Arkaig and is accessed via Spean Bridge on the A82.  This is usually the most common wakling route from the south and then via Glen Dessary to Sourlies at the head of Loch Nevis</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=25&t=8154' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Kilchoan Estate', '<div class="content">' +
+            ['Kilchoan Estate', '<div class="card h-100 card mb-3">' +
                 "<h3>Kilchoan Estate</h3>" +
-                "<img src='https://static.wixstatic.com/media/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg/v1/fill/w_262,h_192,al_c,q_80,usm_0.66_1.00_0.01/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://static.wixstatic.com/media/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg/v1/fill/w_262,h_192,al_c,q_80,usm_0.66_1.00_0.01/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg'>" +
                 "<p>Kilchoan Estate, located to the south east of Inverie offers 5 self catering properties and one bunkhouse including Tigh na Dobhran pictured above</p>" +
                 "<p><a class='btn btn-sm' href='https://www.kilchoan-knoydart.com/accommodation' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Camusblathan', '<div class="content">' +
+            ['Camusblathan', '<div class="card h-100 card mb-3">' +
                 "<h3>Camusblathan</h3>" +
-                "<img src='http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254'>" +
+                "<img class='card-img-top img-fluid' class='card-img-top img-fluid' src='http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254'>" +
                 "<p>Camusblathan is a gorgeous cottage by the sea, with incredible views. It is located in Airor, on the western tip of Knoydart on the Sound of Sleat looking over to Skye</p>" +
                 "<p><a class='btn btn-sm' href='http://www.camusblathan.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Creag Eiridh', '<div class="content">' +
+            ['Creag Eiridh', '<div class="card h-100 card mb-3">' +
                 "<h3>Creag Eiridh</h3>" +
-                "<img src='http://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg'>" +
+                "<img class='card-img-top img-fluid' src='http://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg'>" +
                 "<p>In a secluded rural holiday location charming Creag Eiridh is a recently refurbished and immaculately presented 4-bedroom luxury holiday house. It is situated in a breathtaking position on the northern shore of Loch Nevis in the Western Highlands of Scotland</p>" +
                 "<p><a class='btn btn-sm' href='http://www.creageiridh.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Glaschoille House', '<div class="content">' +
+            ['Glaschoille House', '<div class="card h-100 card mb-3">' +
                 "<h3>Glaschoille House</h3>" +
-                "<img src='https://bestscottishcottages.co.uk/?page_type=show_image&img=Glaschoille_Exterior3.jpg&q=65'>" +
+                "<img class='card-img-top img-fluid' src='https://bestscottishcottages.co.uk/?page_type=show_image&img=Glaschoille_Exterior3.jpg&q=65'>" +
                 "<p>Glaschoille House as well as being a self-catering holiday home is also a wedding venue located 2 miles west of Inverie</p>" +
                 "<p><a class='btn btn-sm' href='https://www.glaschoille.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Ivy Cottage', '<div class="content">' +
+            ['Ivy Cottage', '<div class="card h-100 card mb-3">' +
                 "<h3>Ivy Cottage</h3>" +
-                "<img src='https://www.assc.co.uk/wp-content/uploads/asscmembers/3043/2070/0277kq25_medium.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://www.assc.co.uk/wp-content/uploads/asscmembers/3043/2070/0277kq25_medium.jpg'>" +
                 "<p>Ivy Cottage is a Traditional Highland Estate holiday cottage on the remote Knoydart Peninsula, a haven for hill walkers, mountaineers, wildlife enthusiasts and those who just want to get away from the hurly-burly of urban life</p>" +
                 "<p><a class='btn btn-sm' href='http://www.ivycottageknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Knoydart Hide', '<div class="content">' +
+            ['Knoydart Hide', '<div class="card h-100 card mb-3">' +
                 "<h3>Knoydart Hide</h3>" +
-                "<img src='https://dimg.visitscotland.com/wsimgs/Emily_and_Gareth_Knoydart_Hide_2014-9_942083541.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://dimg.visitscotland.com/wsimgs/Emily_and_Gareth_Knoydart_Hide_2014-9_942083541.jpg'>" +
                 "<p>Knoydart hide is luxury self-catering accomodation aimed at privacy and offers a luxury spa, a hot tub and a masseuse</p>" +
                 "<p><a class='btn btn-sm' href='https://www.knoydarthide.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-           ['Knoydart House', '<div class="content">' +
+           ['Knoydart House', '<div class="card h-100 card mb-3">' +
                 "<h3>Knoydart House</h3>" +
-                "<img src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/03/19/18/581626.bin?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5'>" +
+                "<img class='card-img-top img-fluid' src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/03/19/18/581626.bin?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5'>" +
                 "<p>Knoydart House Studio Room boasts a hot tub and a masseuse</p>" +
                 "<p><a class='btn btn-sm' href='http://www.knoydarthouse.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-          ['Knoydart Lodge', '<div class="content">' +
+          ['Knoydart Lodge', '<div class="card h-100 card mb-3">' +
                 "<h3>Knoydart Lodge</h3>" +
-                "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ2Q3abjZvdp1Q9RFeMMMhrh2xH94SplXv6ut9-FIMF10JG5ce'>" +
+                "<img class='card-img-top img-fluid' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZ2Q3abjZvdp1Q9RFeMMMhrh2xH94SplXv6ut9-FIMF10JG5ce'>" +
                 "<p>Knoydart Lodge is a high quality, low cost bunkhouse style self-catering facility for groups of 2-20</p>" +
                 "<p><a class='btn btn-sm' href='https://www.knoydartlodge.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Lochside', '<div class="content">' +
+            ['Lochside', '<div class="card h-100 card mb-3">' +
                 "<h3>Lochside</h3>" +
-                "<img src='https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg'>" +
                 "<p>Lochside is a superb holiday cottage located in Inverie with amongst other things, a hot tub</p>" +
                 "<p><a class='btn btn-sm' href='http://www.lochsideknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-           ['The Old Byre', '<div class="content">' +
+           ['The Old Byre', '<div class="card h-100 card mb-3">' +
                 "<h3>The Old Byre</h3>" +
-                "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAvbh-hm8clkAdtB6KYJM4OugFuMsgQE5pYRMJwGG_Urn7OiiX'>" +
+                "<img class='card-img-top img-fluid' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAvbh-hm8clkAdtB6KYJM4OugFuMsgQE5pYRMJwGG_Urn7OiiX'>" +
                 "<p>The Old Byre is 15 minutes from Inverie Pier and has five bedrooms and can take up to 14 people</p>" +
                 "<p><a class='btn btn-sm' href='http://www.theoldbyreknoydart.com' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
 
-            ['Ladhar Bheinn', '<div class="content">' +
+            ['Ladhar Bheinn', '<div class="card h-100 card mb-3">' +
                 "<h3>Ladhar Bheinn</h3>" +
-                "<img src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
                 "<p>Ladhar Bheinn is the highest munro on the Knoydart peninsula and regarded by many as one of the finest mountains in Scotland.  It has dramatic ridges, huge crags and offers superb views</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/ladhar-bheinn' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Luinne Bheinn', '<div class="content">' +
+            ['Luinne Bheinn', '<div class="card h-100 card mb-3">' +
                 "<h3>Luinne Bheinn</h3>" +
-                "<img src='https://images.on-this.website/22407_13680161084ffb09045cf75.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://images.on-this.website/22407_13680161084ffb09045cf75.jpg'>" +
                 "<p>Luinne Bheinn, often misprounced as 'Loony Bin' is a very rough and rocky mountain on the head of Knoydart, and is quite often climbed along with Meall Buidhe</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/luinne-bheinn' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Meall Buidhe', '<div class="content">' +
+            ['Meall Buidhe', '<div class="card h-100 card mb-3">' +
                 "<h3>Meall Buidhe</h3>" +
-                "<img src='http://www.munromagic.com/MunroImages/CNV00028.jpg'>" +
+                "<img class='card-img-top img-fluid' src='http://www.munromagic.com/MunroImages/CNV00028.jpg'>" +
                 "<p>Meall Buidhe (lit. Yellow Knoll) is one of three munros on Knoydart and due to it's rocky slopes, requires considerable effort during ascent</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/meall-buidhe-knoydart' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Sgùrr na Cìche', '<div class="content">' +
+            ['Sgùrr na Cìche', '<div class="card h-100 card mb-3">' +
                 "<h3>Sgùrr na Cìche</h3>" +
-                "<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Sgurr_na_Ciche.jpg'>" +
+                "<img class='card-img-top img-fluid' src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Sgurr_na_Ciche.jpg'>" +
                 "<p>Sgùrr na Cìche sits on the edge of Knoydart and is a fine example of a conical shaped mountain and once climbed it offers magnificent views of Loch Nevis</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/sgurr-na-ciche' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
