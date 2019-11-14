@@ -171,6 +171,13 @@ li {
     font-weight: bold;
     color: #ffd826;
 }
+.act-sub-heading {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.mountain {
+    margin-bottom: 20px;
+}
 /*#gettinghere {
     margin: 20px 0px 20px 0px;
 
