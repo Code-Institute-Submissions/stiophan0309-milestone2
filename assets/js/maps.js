@@ -315,7 +315,13 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://www.doune-knoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-
+            ['The Gathering', '<div class="card h-100 card mb-3">' +
+                "<h3>The Gathering</h3>" +
+                "<img class='card-img-top img-fluid' src='https://bestscottishcottages.co.uk/?page_type=show_image&img=the-gathering-1.jpg&q=65'>" +
+                "<p>Text Goes Here</p>" +
+                "<p><a class='btn btn-sm' href='http://www.thegatheringknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
             ['Glaschoille House', '<div class="card h-100 card mb-3">' +
                 "<h3>Glaschoille House</h3>" +
                 "<img class='card-img-top img-fluid' src='https://bestscottishcottages.co.uk/?page_type=show_image&img=Glaschoille_Exterior3.jpg&q=65'>" +
@@ -335,6 +341,20 @@ function initMap() {
                 "<img class='card-img-top img-fluid' src='https://static.wixstatic.com/media/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg/v1/fill/w_262,h_192,al_c,q_80,usm_0.66_1.00_0.01/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg'>" +
                 "<p>Kilchoan Estate, located to the south east of Inverie offers 5 self catering properties and one bunkhouse including Tigh na Dobhran pictured above</p>" +
                 "<p><a class='btn btn-sm' href='https://www.kilchoan-knoydart.com/accommodation' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['The Knoydart Foundation Bunkhouse', '<div class="card h-100 card mb-3">' +
+                "<h3>The Knoydart Foundation Bunkhouse</h3>" +
+                "<img class='card-img-top img-fluid' src='https://media-cdn.tripadvisor.com/media/photo-s/04/0c/32/32/knoydart-foundation-bunkhouse.jpg'>" +
+                "<p>Text Goes Here</p>" +
+                "<p><a class='btn btn-sm' href='http://www.knoydart-foundation.com/bunkhouse/about-the-bunkhouse/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+           ['The Knoydart Foundation Campsite', '<div class="card h-100 card mb-3">' +
+                "<h3>The Knoydart Foundation Campsite</h3>" +
+                "<img class='card-img-top img-fluid' src='https://images.campsites.co.uk/campsite/26169/6cea409e-7785-49ce-a3fc-ced6a109ca5b/480/270/either/long-beach-campsite-knoydart.jpg'>" +
+                "<p>Text Goes Here</p>" +
+                "<p><a class='btn btn-sm' href='http://www.knoydart-foundation.com/coming-to-knoydart/other-accommodation/camping/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Knoydart Hide', '<div class="card h-100 card mb-3">' +
@@ -358,7 +378,21 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://www.knoydartlodge.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Lochside', '<div class="card h-100 card mb-3">' +
+          ['Knoydart River Cottage', '<div class="card h-100 card mb-3">' +
+                "<h3>Knoydart River Cottage</h3>" +
+                "<img class='card-img-top img-fluid' src='https://static.wixstatic.com/media/76d3b2_e792a39f5bb240209da63eabfe041e39~mv2.jpg'>" +
+                "<p>Text Goes Here</p>" +
+                "<p><a class='btn btn-sm' href='https://www.knoydartrivercottage.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Knoydart Snug', '<div class="card h-100 card mb-3">' +
+                "<h3>Knoydart Snug</h3>" +
+                "<img class='card-img-top img-fluid' src='https://westernislescruises.co.uk/wp-content/uploads/2016/12/dob-900x675.jpg'>" +
+                "<p>Text Goes Here</p>" +
+                "<p><a class='btn btn-sm' href='http://www.theoldforge.co.uk/knoydart-snug.html' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Lochside House', '<div class="card h-100 card mb-3">' +
                 "<h3>Lochside</h3>" +
                 "<img class='card-img-top img-fluid' src='https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg'>" +
                 "<p>Lochside is a superb holiday cottage located in Inverie with amongst other things, a hot tub</p>" +
@@ -372,7 +406,20 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='http://www.theoldbyreknoydart.com' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-
+          ['Westfield', '<div class="card h-100 card mb-3">' +
+                "<h3>Westfield</h3>" +
+                "<img class='card-img-top img-fluid' src='https://lid.zoocdn.com/1024/768/a1538b7b8d8dcebc2bf121b88051d5a93c0a75ac.jpg'>" +
+                "<p>Westfield is a stunning beachfront house in Inverie and has 2 bedrooms to let and has easy access for wheelchairs</p>" +
+                "<p><a class='btn btn-sm' href='https://www.airbnb.co.uk/rooms/16254776?source_impression_id=p3_1573853076_75Uz%2BI0tr%2FpLdmqs' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['The Old Forge', '<div class="card h-100 card mb-3">' +
+                "<h3>The Old Forge</h3>" +
+                "<img class='card-img-top img-fluid' src='https://cdn-b.william-reed.com/var/wrbm_gb_hospitality/storage/images/1/7/9/6/1026971-1-eng-GB/My-Pub-The-Old-Forge-Inverie_wrbm_large.jpg'>" +
+                "<p>Text Goes Here</p>" +
+                "<p><a class='btn btn-sm' href='http://www.theoldforge.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
             ['Ladhar Bheinn', '<div class="card h-100 card mb-3">' +
                 "<h3>Ladhar Bheinn</h3>" +
                 "<img class='card-img-top img-fluid' src='https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg'>" +
