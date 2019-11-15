@@ -240,16 +240,25 @@ function initMap() {
             ["Inverie", 57.038531, -5.684935],
             ["Kinlochhourn", 57.104270, -5.387123],
             ["Strathan", 56.969871, -5.326304],
-            ["Kilchoan Estate", 57.028939, -5.661221],
             ["Camusblathan", 57.082002, -5.768341],
             ["Creag Eiridh", 57.040676, -5.702373],
+            ["Doune Bay Lodge", 57.065444, -5.789139],
+            ["Doune Stone Lodges", 57.041087, -5.697855],
+            ["The Gathering", 57.039995, -5.685998],
             ["Glaschoille House", 57.037605, -5.730124],
             ["Ivy Cottage", 57.038540, -5.685291],
+            ["Kilchoan Estate", 57.028939, -5.661221],
+            ["Knoydart Foundation Bunkhouse", 57.032865, -5.670375],
+            ["Knoydart Foundation Campsite", 57.029742, -5.669467],
             ["Knoydart Hide", 57.037842, -5.683945],
             ["Knoydart House", 57.038013, -5.683956],
             ["Knoydart Lodge", 57.033227, -5.668983],
-            ["Lochside", 57.040524, -5.697796],
+            ["Knoydart River Cottage", 57.029372, -5.664948],
+            ["Knoydart Snug", 57.032067, -5.666617],
+            ["Lochside House", 57.040524, -5.697796],
             ["The Old Byre", 57.032067, -5.666617],
+            ["Westfield", 57.040926, -5.713411],
+            ["The Old Forge", 57.037579, -5.682700],
             ["Ladhar Bheinn", 57.056025, -5.542526],
             ["Luinne Bheinn", 57.049542, -5.516111],
             ["Meall Buidhe", 57.032051, -5.545687],
@@ -278,13 +287,6 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=25&t=8154' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
-            ['Kilchoan Estate', '<div class="card h-100 card mb-3">' +
-                "<h3>Kilchoan Estate</h3>" +
-                "<img class='card-img-top img-fluid' src='https://static.wixstatic.com/media/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg/v1/fill/w_262,h_192,al_c,q_80,usm_0.66_1.00_0.01/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg'>" +
-                "<p>Kilchoan Estate, located to the south east of Inverie offers 5 self catering properties and one bunkhouse including Tigh na Dobhran pictured above</p>" +
-                "<p><a class='btn btn-sm' href='https://www.kilchoan-knoydart.com/accommodation' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
-                "</div>"
-            ],
             ['Camusblathan', '<div class="card h-100 card mb-3">' +
                 "<h3>Camusblathan</h3>" +
                 "<img class='card-img-top img-fluid' class='card-img-top img-fluid' src='http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254'>" +
@@ -299,6 +301,21 @@ function initMap() {
                 "<p><a class='btn btn-sm' href='http://www.creageiridh.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
+           ['Doune Bay Lodge', '<div class="card h-100 card mb-3">' +
+                "<h3>Doune Bay Lodge</h3>" +
+                "<img class='card-img-top img-fluid' src='https://s0.geograph.org.uk/geophotos/04/56/85/4568584_359e8d6f.jpg'>" +
+                "<p>Doune Bay Lodge is a small family run hotel located on the western tip of Knoydart</p>" +
+                "<p><a class='btn btn-sm' href='https://www.doune-knoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+           ['Doune Stone Lodges', '<div class="card h-100 card mb-3">' +
+                "<h3>Doune Bay Lodge</h3>" +
+                "<img class='card-img-top img-fluid' src='https://dimg.visitscotland.com/wsimgs/20170923_065812_6971792.jpg'>" +
+                "<p>Doune Stone Lodges are run by the same family as per Doune Bay lodge and they will collect guests from Mallaig by their own personal boats.</p>" +
+                "<p><a class='btn btn-sm' href='https://www.doune-knoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+
             ['Glaschoille House', '<div class="card h-100 card mb-3">' +
                 "<h3>Glaschoille House</h3>" +
                 "<img class='card-img-top img-fluid' src='https://bestscottishcottages.co.uk/?page_type=show_image&img=Glaschoille_Exterior3.jpg&q=65'>" +
@@ -311,6 +328,13 @@ function initMap() {
                 "<img class='card-img-top img-fluid' src='https://www.assc.co.uk/wp-content/uploads/asscmembers/3043/2070/0277kq25_medium.jpg'>" +
                 "<p>Ivy Cottage is a Traditional Highland Estate holiday cottage on the remote Knoydart Peninsula, a haven for hill walkers, mountaineers, wildlife enthusiasts and those who just want to get away from the hurly-burly of urban life</p>" +
                 "<p><a class='btn btn-sm' href='http://www.ivycottageknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "</div>"
+            ],
+            ['Kilchoan Estate', '<div class="card h-100 card mb-3">' +
+                "<h3>Kilchoan Estate</h3>" +
+                "<img class='card-img-top img-fluid' src='https://static.wixstatic.com/media/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg/v1/fill/w_262,h_192,al_c,q_80,usm_0.66_1.00_0.01/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg'>" +
+                "<p>Kilchoan Estate, located to the south east of Inverie offers 5 self catering properties and one bunkhouse including Tigh na Dobhran pictured above</p>" +
+                "<p><a class='btn btn-sm' href='https://www.kilchoan-knoydart.com/accommodation' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Knoydart Hide', '<div class="card h-100 card mb-3">' +
