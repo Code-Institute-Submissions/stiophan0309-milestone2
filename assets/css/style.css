@@ -174,9 +174,15 @@ li {
 .act-sub-heading {
     font-size: 1.5em;
     font-weight: bold;
+    
 }
-.mountain {
+.act-container {
     margin-bottom: 20px;
+    border-bottom: 1px solid #FEFBD0;
+    padding-bottom: 20px;
+}
+.act-internal {
+    padding: 0;
 }
 /*#gettinghere {
     margin: 20px 0px 20px 0px;
