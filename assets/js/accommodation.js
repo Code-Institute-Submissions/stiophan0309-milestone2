@@ -15,7 +15,7 @@
                 div.innerHTML =  '<div class="card h-100 card mb-3">' +
                                  '<img class="card-img-top img-fluid" src="' + data[i].image + '" class="card-img-top" alt="' + data[i].name + '">' + 
                                  '<div class="card-body">' + 
-                                    '<h5 class="card-title">' + data[i].name + '<span class="badge badge-danger">' + data[i].letter + '</span></h5>' +
+                                    '<h5 class="card-title">' + data[i].name + '<span class="badge badge-danger letter">' + data[i].letter + '</span></h5>' +
                                     '<p class="card-text">' + data[i].type + '</p>' +
                                     '<p class="card-text">' + data[i].description + '</p>' + 
                                     '<a href="' + data[i].url + '" class="btn btn-info" target="_blank">' + 'Home Page' + '</a>' + 
