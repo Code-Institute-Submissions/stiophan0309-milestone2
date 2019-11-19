@@ -180,13 +180,17 @@ li {
     
 }
 .act-container {
-    margin-bottom: 20px;
+    margin: 10px;
     border-bottom: 1px solid #FEFBD0;
     padding-bottom: 20px;
 }
 .act-internal {
     padding: 0;
 }
+.mountain {
+    margin-left: 20px;
+}
+
 /*#gettinghere {
     margin: 20px 0px 20px 0px;
 
