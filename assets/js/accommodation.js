@@ -1,4 +1,4 @@
-        fetch('assets/js/accommodation.json')
+        fetch('assets/data/accommodation.json')
             .then(function (response) {
                 return response.json();
             })
