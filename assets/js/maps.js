@@ -1,6 +1,6 @@
 function initMap() {
 
-        var styledMapType = new google.maps.StyledMapType(
+        const styledMapType = new google.maps.StyledMapType(
             [{
                     "elementType": "geometry",
                     "stylers": [{
@@ -221,7 +221,7 @@ function initMap() {
             ], { name: "Styled Map" });
 
 
-        var map = new google.maps.Map(document.getElementById("map"), {
+        const map = new google.maps.Map(document.getElementById("map"), {
             zoom: 11,
             center: {
                 lat: 57.056025,
@@ -236,7 +236,7 @@ function initMap() {
         map.mapTypes.set('styled_map', styledMapType);
         map.setMapTypeId('styled_map');
 
-        var locations = [
+        const locations = [
             ["Inverie", 57.038531, -5.684935],
             ["Kinlochhourn", 57.104270, -5.387123],
             ["Strathan", 56.969871, -5.326304],
@@ -265,7 +265,7 @@ function initMap() {
             ["Sgùrr na Cìche", 57.012912, -5.456042]
         ];
 
-        var content = [
+        const content = [
             ['Inverie', '<div class="card h-100 card mb-3">' +
                 "<h3>Inverie</h3>" +
                 "<img class='card-img-top img-fluid' src='https://upload.wikimedia.org/wikipedia/commons/0/04/Inverie_-_geograph.org.uk_-_920860.jpg'>" +
@@ -449,11 +449,11 @@ function initMap() {
                 "</div>"
             ]
         ];
-        var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-        var gmarkers = [];
-        var infowindow = new google.maps.InfoWindow({});
-        for (var i = 0; i < locations.length; i++) {
-            var marker = new google.maps.Marker({
+        const labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        const gmarkers = [];
+        const infowindow = new google.maps.InfoWindow({});
+        for (const i = 0; i < locations.length; i++) {
+            const marker = new google.maps.Marker({
                 position: new google.maps.LatLng(locations[i][1], locations[i][2]),
                 map: map,
                 title: locations[i][0],
@@ -469,7 +469,7 @@ function initMap() {
             gmarkers.push(marker);
         }
 
-        var markerCluster = new MarkerClusterer(map, gmarkers, {
+        const markerCluster = new MarkerClusterer(map, gmarkers, {
             imagePath: 'https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/m'
         });
 
