@@ -1,10 +1,10 @@
 [       
-    {'Inverie', '<div class="card h-100 card mb-3">' +
-        "<h3>Inverie</h3>" +
-        "<img class='card-img-top img-fluid' src='https://upload.wikimedia.org/wikipedia/commons/0/04/Inverie_-_geograph.org.uk_-_920860.jpg'>" +
-        "<p>Inverie (pop. 70), is the main village and settlement on the Knoydart peninsula, and due to it not being connected to the national road network it has a Guiness National Record for remoteness</p>" +
-        "<p><a class='btn btn-sm' href='https://en.wikipedia.org/wiki/Inverie' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
-        "</div>"
+    {
+        "id": "Inverie",
+        "title:" "Inverie",
+        "image": "<img class='card-img-top img-fluid' src='https://upload.wikimedia.org/wikipedia/commons/0/04/Inverie_-_geograph.org.uk_-_920860.jpg'>",
+        "caption": "Inverie (pop. 70), is the main village and settlement on the Knoydart peninsula, and due to it not being connected to the national road network it has a Guiness National Record for remoteness</p>",
+        "website": "href='https://en.wikipedia.org/wiki/Inverie"
     },
     {'Kinlochhourn', '<div class="card h-100 card mb-3">' +
         "<h3>Kinloch Hourn</h3>" +
