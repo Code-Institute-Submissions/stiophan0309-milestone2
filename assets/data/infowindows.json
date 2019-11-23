@@ -1,7 +1,7 @@
 [       
     {
         "id": "Inverie",
-        "title:" "Inverie",
+        "title": "Inverie",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Inverie_-_geograph.org.uk_-_920860.jpg",
         "caption": "Inverie (pop. 70), is the main village and settlement on the Knoydart peninsula, and due to it not being connected to the national road network it has a Guiness National Record for remoteness",
         "website": "href='https://en.wikipedia.org/wiki/Inverie"
@@ -39,7 +39,7 @@
         "title":"Doune Bay Lodge",
         "image":"https://s0.geograph.org.uk/geophotos/04/56/85/4568584_359e8d6f.jpg",
         "caption":"Doune Bay Lodge is a small family run hotel located on the western tip of Knoydart",
-        "website":"https://www.doune-knoydart.co.uk",
+        "website":"https://www.doune-knoydart.co.uk"
     },
     {
         "id": "Doune Stone Lodges",
@@ -88,7 +88,7 @@
         "title":"The Knoydart Foundation Campsite",
         "image":"https://images.campsites.co.uk/campsite/26169/6cea409e-7785-49ce-a3fc-ced6a109ca5b/480/270/either/long-beach-campsite-knoydart.jpg",
         "caption":"Text Goes Here",
-        "website":"http://www.knoydart-foundation.com/coming-to-knoydart/other-accommodation/camping/",
+        "website":"http://www.knoydart-foundation.com/coming-to-knoydart/other-accommodation/camping/"
         
     },
     {
@@ -96,7 +96,7 @@
         "title":"Knoydart Hide",
         "image":"https://dimg.visitscotland.com/wsimgs/Emily_and_Gareth_Knoydart_Hide_2014-9_942083541.jpg",
         "caption":"Knoydart hide is luxury self-catering accomodation aimed at privacy and offers a luxury spa, a hot tub and a masseuse",
-        "website":"https://www.knoydarthide.co.uk",
+        "website":"https://www.knoydarthide.co.uk"
         
     },
     {
@@ -118,66 +118,66 @@
         "title":"Knoydart River Cottage",
         "image":"https://static.wixstatic.com/media/76d3b2_e792a39f5bb240209da63eabfe041e39~mv2.jpg",
         "caption":"Text Goes Here",
-        "website":"https://www.knoydartrivercottage.co.uk",   
+        "website":"https://www.knoydartrivercottage.co.uk" 
     },
     {
         "id": "Knoydart Snug",
         "title":"Knoydart Snug",
         "image":"https://westernislescruises.co.uk/wp-content/uploads/2016/12/dob-900x675.jpg",
         "caption":"Text Goes Here",
-        "website":"http://www.theoldforge.co.uk/knoydart-snug.html",    
+        "website":"http://www.theoldforge.co.uk/knoydart-snug.html"    
     },
     {
         "id": "Lochside House",
         "title":"Lochside",
         "image":"https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg",
         "caption":"Lochside is a superb holiday cottage located in Inverie with amongst other things, a hot tub",
-        "website":"http://www.lochsideknoydart.co.uk",
+        "website":"http://www.lochsideknoydart.co.uk"
         
     },
     {"id": "The Old Byre",
         "title":"The Old Byre",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAvbh-hm8clkAdtB6KYJM4OugFuMsgQE5pYRMJwGG_Urn7OiiX",
         "caption":"The Old Byre is 15 minutes from Inverie Pier and has five bedrooms and can take up to 14 people",
-        "website":"http://www.theoldbyreknoydart.com",   
+        "website":"http://www.theoldbyreknoydart.com"  
     },
     {
         "id": "Westfield",
         "title":"Westfield",
         "image":"https://lid.zoocdn.com/1024/768/a1538b7b8d8dcebc2bf121b88051d5a93c0a75ac.jpg",
         "caption":"Westfield is a stunning beachfront house in Inverie and has 2 bedrooms to let and has easy access for wheelchairs",
-        "website":"https://www.airbnb.co.uk/rooms/16254776?source_impression_id=p3_1573853076_75Uz%2BI0tr%2FpLdmqs",    
+        "website":"https://www.airbnb.co.uk/rooms/16254776?source_impression_id=p3_1573853076_75Uz%2BI0tr%2FpLdmqs"   
     },
     {"id": "The Old Forge",
         "title":"The Old Forge",
         "image":"https://cdn-b.william-reed.com/var/wrbm_gb_hospitality/storage/images/1/7/9/6/1026971-1-eng-GB/My-Pub-The-Old-Forge-Inverie_wrbm_large.jpg",
         "caption":"Text Goes Here",
-        "website":"http://www.theoldforge.co.uk",       
+        "website":"http://www.theoldforge.co.uk"
     },
     {"id": "Ladhar Bheinn",
         "title":"Ladhar Bheinn",
         "image":"https://upload.wikimedia.org/wikipedia/commons/2/2e/Ladhar_Bheinn.jpg",
         "caption":"Ladhar Bheinn is the highest munro on the Knoydart peninsula and regarded by many as one of the finest mountains in Scotland.  It has dramatic ridges, huge crags and offers superb views",
-        "website":"https://www.walkhighlands.co.uk/munros/ladhar-bheinn",       
+        "website":"https://www.walkhighlands.co.uk/munros/ladhar-bheinn"      
     },
     {
         "id": "Luinne Bheinn",
         "title":"Luinne Bheinn",
         "image":"https://images.on-this.website/22407_13680161084ffb09045cf75.jpg",
         "caption":"Luinne Bheinn, often misprounced as 'Loony Bin' is a very rough and rocky mountain on the head of Knoydart, and is quite often climbed along with Meall Buidhe",
-        "website":"https://www.walkhighlands.co.uk/munros/luinne-bheinn",   
+        "website":"https://www.walkhighlands.co.uk/munros/luinne-bheinn"  
     },
     {
         "id": "Meall Buidhe",
         "title":"Meall Buidhe",
         "image":"http://www.munromagic.com/MunroImages/CNV00028.jpg",
         "caption":"Meall Buidhe (lit. Yellow Knoll) is one of three munros on Knoydart and due to it's rocky slopes, requires considerable effort during ascent",
-        "website":"https://www.walkhighlands.co.uk/munros/meall-buidhe-knoydart",      
+        "website":"https://www.walkhighlands.co.uk/munros/meall-buidhe-knoydart"     
     },
     {"id": "Sgùrr na Cìche",
         "title":"Sgùrr na Cìche",
         "image":"https://upload.wikimedia.org/wikipedia/commons/f/f5/Sgurr_na_Ciche.jpg",
         "caption":"Sgùrr na Cìche sits on the edge of Knoydart and is a fine example of a conical shaped mountain and once climbed it offers magnificent views of Loch Nevis",
-        "website":"https://www.walkhighlands.co.uk/munros/sgurr-na-ciche",   
+        "website":"https://www.walkhighlands.co.uk/munros/sgurr-na-ciche"
     }
 ]
