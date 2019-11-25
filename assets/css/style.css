@@ -71,9 +71,19 @@ header {
     background-color: #ff4000;
 }
 
-.navbar-toggler, .navbar-toggler-icon {
-    color: #fff;
-    border: 1px solid #fff;
+.navbar-toggler {
+    color: #ff4000;
+    margin-bottom: 10px;
+    width: 3em;
+    padding: 5px;
+}
+.navbar-toggler-icon {
+    margin: 5px;
+}
+.custom-toggler {
+    color: #ff4000;
+    border: 1px solid #ff4000;
+    z-index: 100;
 }
 .wrap {
     margin:0;
@@ -214,3 +224,13 @@ footer {
 .legal {
     color: #FEFBD0;
 }
+@media screen and (max-width: 767px) {
+    .nav-link {
+    display: block;
+    text-decoration: none;
+    color:#fff;
+    font-size: 1.25em;
+    border-bottom: 1px solid #ff4000;
+    border-right: 0;
+}
+ }
