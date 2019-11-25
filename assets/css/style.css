@@ -193,6 +193,9 @@ li {
 .act-internal {
     padding: 0;
 }
+.act-internal p {
+    margin-left: 10px;
+}
 .mountain {
     margin-left: 20px;
 }
