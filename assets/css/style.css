@@ -193,8 +193,8 @@ li {
 .act-internal {
     padding: 0;
 }
-.act-internal p {
-    margin-left: 10px;
+.act-wrapper {
+    margin: 20px;
 }
 .mountain {
     margin-left: 20px;
