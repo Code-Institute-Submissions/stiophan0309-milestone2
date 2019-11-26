@@ -70,7 +70,10 @@ header {
     color: #ff0;
     background-color: #ff4000;
 }
-
+.nav-link:target {
+    padding-top: 200px;
+    margin-top: -200px;
+}
 .navbar-toggler {
     color: #ff4000;
     margin-bottom: 10px;
@@ -223,6 +226,26 @@ footer {
 }
 .legal {
     color: #FEFBD0;
+}
+#gettinghere-target {
+    position: relative;
+    top: 500px;
+}
+#location-target {
+    position: relative;
+    top: 1030px;
+}
+#accommodation-target {
+    position: relative;
+    top: 180px;
+}
+#activities-target {
+    position: relative;
+    top: 4050px;
+}
+#furtherinfo-target {
+    position: relative;
+    top: 5000px;
 }
 @media screen and (max-width: 767px) {
     .nav-link {
