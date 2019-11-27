@@ -10,9 +10,7 @@ html, body {
     background: rgb(0,0,0);
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(19,108,105,1) 39%, rgba(104,175,174,1) 87%);
 }
-body {
-    padding-top: 50px;
-}
+
 p, a, ul, ol {
     font-family: 'KoHo', sans-serif;
 }
@@ -232,26 +230,7 @@ footer {
 .legal {
     color: #FEFBD0;
 }
-#gettinghere-target {
-    position: relative;
-    top: 500px;
-}
-#location-target {
-    position: relative;
-    top: 1030px;
-}
-#accommodation-target {
-    position: relative;
-    top: 180px;
-}
-#activities-target {
-    position: relative;
-    top: 4050px;
-}
-#furtherinfo-target {
-    position: relative;
-    top: 5000px;
-}
+
 @media screen and (max-width: 767px) {
     .nav-link {
     display: block;
