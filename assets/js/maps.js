@@ -452,8 +452,8 @@ function initMap() {
         const labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
         const gmarkers = [];
         const infowindow = new google.maps.InfoWindow({});
-        for (const i = 0; i < locations.length; i++) {
-            const marker = new google.maps.Marker({
+        for (let i = 0; i < locations.length; i++) {
+            let marker = new google.maps.Marker({
                 position: new google.maps.LatLng(locations[i][1], locations[i][2]),
                 map: map,
                 title: locations[i][0],

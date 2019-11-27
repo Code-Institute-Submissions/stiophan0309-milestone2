@@ -10,7 +10,9 @@ html, body {
     background: rgb(0,0,0);
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(19,108,105,1) 39%, rgba(104,175,174,1) 87%);
 }
-
+body {
+    padding-top: 50px;
+}
 p, a, ul, ol {
     font-family: 'KoHo', sans-serif;
 }
@@ -69,10 +71,6 @@ header {
 .nav-link:hover {
     color: #ff0;
     background-color: #ff4000;
-}
-.nav-link:target {
-    padding-top: 200px;
-    margin-top: -200px;
 }
 .navbar-toggler {
     color: #ff4000;
