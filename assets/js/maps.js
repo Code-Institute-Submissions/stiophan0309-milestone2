@@ -318,7 +318,7 @@ function initMap() {
             ['The Gathering', '<div class="card h-100 card mb-3">' +
                 "<h3>The Gathering</h3>" +
                 "<img class='card-img-top img-fluid' src='https://bestscottishcottages.co.uk/?page_type=show_image&img=the-gathering-1.jpg&q=65'>" +
-                "<p>Text Goes Here</p>" +
+                "<p>The Gathering is located in Inverie village and runs on it's own hydro-electricity system and offers stunning views and modern facilities</p>" +
                 "<p><a class='btn btn-sm' href='http://www.thegatheringknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
@@ -346,14 +346,14 @@ function initMap() {
             ['The Knoydart Foundation Bunkhouse', '<div class="card h-100 card mb-3">' +
                 "<h3>The Knoydart Foundation Bunkhouse</h3>" +
                 "<img class='card-img-top img-fluid' src='https://media-cdn.tripadvisor.com/media/photo-s/04/0c/32/32/knoydart-foundation-bunkhouse.jpg'>" +
-                "<p>Text Goes Here</p>" +
+                "<p>Knoydart Foundation Bunkhouse is a community run enterprise which re-invests any income to local community projects and it runs on green hydro power, ideal for the environmentally minded.  The Bunkhouse is half a mile south-east of Inverie village and offers discounts on school, youth, Scouts and Duke of Edinburgh's Award groups</p>" +
                 "<p><a class='btn btn-sm' href='http://www.knoydart-foundation.com/bunkhouse/about-the-bunkhouse/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
            ['The Knoydart Foundation Campsite', '<div class="card h-100 card mb-3">' +
                 "<h3>The Knoydart Foundation Campsite</h3>" +
                 "<img class='card-img-top img-fluid' src='https://images.campsites.co.uk/campsite/26169/6cea409e-7785-49ce-a3fc-ced6a109ca5b/480/270/either/long-beach-campsite-knoydart.jpg'>" +
-                "<p>Text Goes Here</p>" +
+                "<p>The Long Beach Campsite run by the Knoydart Foundation is located on the shores of Loch Nevis adjacent to the Knoydart Foundation Bunkhouse and is ideal for the more adventurous.   It is a multi-use site and social events take place as well</p>" +
                 "<p><a class='btn btn-sm' href='http://www.knoydart-foundation.com/coming-to-knoydart/other-accommodation/camping/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
@@ -381,14 +381,14 @@ function initMap() {
           ['Knoydart River Cottage', '<div class="card h-100 card mb-3">' +
                 "<h3>Knoydart River Cottage</h3>" +
                 "<img class='card-img-top img-fluid' src='https://static.wixstatic.com/media/76d3b2_e792a39f5bb240209da63eabfe041e39~mv2.jpg'>" +
-                "<p>Text Goes Here</p>" +
+                "<p>Knoydart River Cottage is a luxury bed & breakfast offering three en-suite bedrooms each with their own private outdoor space. Located next to Inverie River, with spectacular views of the surrounding mountains and out to Loch Nevis, the cottage sleeps six to eight people, small groups and family bookings are available</p>" +
                 "<p><a class='btn btn-sm' href='https://www.knoydartrivercottage.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Knoydart Snug', '<div class="card h-100 card mb-3">' +
                 "<h3>Knoydart Snug</h3>" +
                 "<img class='card-img-top img-fluid' src='https://westernislescruises.co.uk/wp-content/uploads/2016/12/dob-900x675.jpg'>" +
-                "<p>Text Goes Here</p>" +
+                "<p>Knoydart Snugs is located at The Old Byre with independent access and run by the Old Forge and includes a window table to dine at The Old Forge pub</p>" +
                 "<p><a class='btn btn-sm' href='http://www.theoldforge.co.uk/knoydart-snug.html' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
@@ -416,7 +416,7 @@ function initMap() {
             ['The Old Forge', '<div class="card h-100 card mb-3">' +
                 "<h3>The Old Forge</h3>" +
                 "<img class='card-img-top img-fluid' src='https://cdn-b.william-reed.com/var/wrbm_gb_hospitality/storage/images/1/7/9/6/1026971-1-eng-GB/My-Pub-The-Old-Forge-Inverie_wrbm_large.jpg'>" +
-                "<p>Text Goes Here</p>" +
+                "<p>The Old Forge is Bitain's remotes pub and is often the highlight of the peninsula, a warm welcome is assured</p>" +
                 "<p><a class='btn btn-sm' href='http://www.theoldforge.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
