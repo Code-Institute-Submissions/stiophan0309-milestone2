@@ -163,6 +163,7 @@ img {
     -moz-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
     box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
     height: 100vh;
+    max-height: 750px;
 }
 .card-img-top {
     height: 13vw;
