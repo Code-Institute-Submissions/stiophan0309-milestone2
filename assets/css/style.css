@@ -241,4 +241,16 @@ footer {
     border-bottom: 1px solid #ff4000;
     border-right: 0;
 }
+    .header {
+    padding: 0;
+    }
+    .title-main {
+        font-size: 2em;
+    }
+    .title-sub {
+        font-size: 1.5em;
+    }
+    .navbar {
+        margin: 0;
+    }
  }
