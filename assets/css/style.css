@@ -182,7 +182,9 @@ li {
     font-weight: bold;
     color: #ffd826;
 }
-
+#crafts {
+    margin-bottom: 50px;
+}
 .ext-link {
     text-decoration: none;
     color: #ffffff;
