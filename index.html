@@ -271,9 +271,9 @@ horizontal_split
     <script type="text/javascript" src="assets/js/accommodation.js"></script>
     <script>
         $(function() {
-            var navbar = $(".scroll");
+            const navbar = $(".scroll");
             $(window).scroll(function() {    
-                var scroll = $(window).scrollTop();
+                const scroll = $(window).scrollTop();
             
                 if (scroll >= 200) {
                     navbar.removeClass('scroll').addClass("navbar1");

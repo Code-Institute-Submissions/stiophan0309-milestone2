@@ -9,9 +9,9 @@
                 console.log('error: ' + err);
             });
         function appendData(data) {
-            var mainContainer = document.getElementById('cards');
+            let mainContainer = document.getElementById('cards');
             for (var i = 0; i < data.length; i++) {
-                var div = document.createElement("div");
+                let div = document.createElement("div");
                 div.innerHTML =  div.innerHTML = `
                                                 <div class="card">
                                                     <img class="card-img-top img-fluid" src="${data[i].image}"alt="${data[i].name}">
