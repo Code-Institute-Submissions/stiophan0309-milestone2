@@ -63,7 +63,7 @@ The following areas were tested during development:
 
 The project has been deployed on GitHub and can be found here: 
 
-[https://github.com/stiophan0309/milestone2]
+[https://stiophan0309.github.io/milestone2/]
 
 ### Content
 
