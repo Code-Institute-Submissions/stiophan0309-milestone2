@@ -14,7 +14,7 @@
                 let div = document.createElement("div");
                 div.innerHTML =  div.innerHTML = `
                                                 <div class="card">
-                                                    <img class="card-img-top img-fluid" src="${data[i].image}"alt="${data[i].name}">
+                                                    <img class="card-img-top img-fluid" src="${data[i].image}" alt="${data[i].name}">
                                                     <div class="card-body">
                                                         <h5 class="card-title">${data[i].name}<span class="badge badge-danger letter">${data[i].letter}</span></h5>
                                                         <p class="card-text">${data[i].type}</p><p class="card-text">${data[i].description}</p>
