@@ -20,7 +20,7 @@
                                                         <p class="card-text">${data[i].type}</p><p class="card-text">${data[i].description}</p>
                                                    </div>
                                                     <div class="card-footer">
-                                                        <a href="${data[i].url}" class="btn btn-info" target="_blank" rel="noopener" aria-label="${data[i].name}"}>Home Page</a>
+                                                        <a href="${data[i].url}" class="btn btn-info" target="_blank" rel="noopener" aria-label="${data[i].name}"}>Visit Page</a>
                                                     </div>
   
                                                 </div>`
