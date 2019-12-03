@@ -10,7 +10,7 @@
             });
         function appendData(data) {
             let mainContainer = document.getElementById('cards');
-            for (var i = 0; i < data.length; i++) {
+            for (let i = 0; i < data.length; i++) {
                 let div = document.createElement("div");
                 div.innerHTML =  div.innerHTML = `
                                                 <div class="card">
