@@ -289,14 +289,14 @@ function initMap() {
             ],
             ['Camusblathan', '<div class="card h-100 card mb-3">' +
                 "<h3>Camusblathan</h3>" +
-                "<img class='card-img-top img-fluid' class='card-img-top img-fluid' src='https://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254' alt='Camusblathan'>" +
+                "<img class='card-img-top img-fluid' class='card-img-top img-fluid' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCaqhnXSLZlw-ZIe2dctShELV2wEJOFjCSxU6n05bWZfeqKu43&s' alt='Camusblathan'>" +
                 "<p>Camusblathan is a gorgeous cottage by the sea, with incredible views. It is located in Airor, on the western tip of Knoydart on the Sound of Sleat looking over to Skye</p>" +
                 "<p><a class='btn btn-sm' href='https://www.camusblathan.co.uk' target='_blank' rel='nooperner' aria-label='Camusblathan'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Creag Eiridh', '<div class="card h-100 card mb-3">' +
                 "<h3>Creag Eiridh</h3>" +
-                "<img class='card-img-top img-fluid' src='https://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg' alt='Creag Eiridh'>" +
+                "<img class='card-img-top img-fluid' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCaqhnXSLZlw-ZIe2dctShELV2wEJOFjCSxU6n05bWZfeqKu43&s' alt='Creag Eiridh'>" +
                 "<p>In a secluded rural holiday location charming Creag Eiridh is a recently refurbished and immaculately presented 4-bedroom luxury holiday house. It is situated in a breathtaking position on the northern shore of Loch Nevis in the Western Highlands of Scotland</p>" +
                 "<p><a class='btn btn-sm' href='http://www.creageiridh.co.uk' target='_blank' rel='nooperner' aria-label='Creag Eiridh'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
@@ -338,7 +338,7 @@ function initMap() {
             ],
             ['Kilchoan Estate', '<div class="card h-100 card mb-3">' +
                 "<h3>Kilchoan Estate</h3>" +
-                "<img class='card-img-top img-fluid' src='https://static.wixstatic.com/media/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg/v1/fill/w_262,h_192,al_c,q_80,usm_0.66_1.00_0.01/03ba02_d3f0ff9563a1422ca6e8bdc6a0fb1f47.jpg' alt='Kilchoan Estate'>" +
+                "<img class='card-img-top img-fluid' src='https://www.bidwells.co.uk/assets/properties/residential/bid/live/pictures/RPE/19/_resampled/FillWyI5ODgiLCI2NTgiXQ/RPE190020_05.jpg' alt='Kilchoan Estate'>" +
                 "<p>Kilchoan Estate, located to the south east of Inverie offers 5 self catering properties and one bunkhouse including Tigh na Dobhran pictured above</p>" +
                 "<p><a class='btn btn-sm' href='https://www.kilchoan-knoydart.com/accommodation' target='_blank' rel='nooperner' aria-label='Kilchoan Estate'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
@@ -436,7 +436,7 @@ function initMap() {
             ],
             ['Meall Buidhe', '<div class="card h-100 card mb-3">' +
                 "<h3>Meall Buidhe</h3>" +
-                "<img class='card-img-top img-fluid' src='https://www.munromagic.com/MunroImages/CNV00028.jpg' alt='Meall Buidhe'>" +
+                "<img class='card-img-top img-fluid' src='https://www.walkhighlands.co.uk/munros/meall-buidhe-knoydart-1.JPG' alt='Meall Buidhe'>" +
                 "<p>Meall Buidhe (lit. Yellow Knoll) is one of three munros on Knoydart and due to it's rocky slopes, requires considerable effort during ascent</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/meall-buidhe-knoydart' target='_blank' rel='nooperner' aria-label='Meall Buidhe'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
