@@ -289,14 +289,14 @@ function initMap() {
             ],
             ['Camusblathan', '<div class="card h-100 card mb-3">' +
                 "<h3>Camusblathan</h3>" +
-                "<img class='card-img-top img-fluid' class='card-img-top img-fluid' src='http://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254' alt='Camusblathan'>" +
+                "<img class='card-img-top img-fluid' class='card-img-top img-fluid' src='https://www.camusblathan.co.uk/____impro/1/onewebmedia/3295319d90-DSC_0011%20%281%29.jpg?etag=%2228037-599054ae%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=366,254&extract=30,0,304,254' alt='Camusblathan'>" +
                 "<p>Camusblathan is a gorgeous cottage by the sea, with incredible views. It is located in Airor, on the western tip of Knoydart on the Sound of Sleat looking over to Skye</p>" +
-                "<p><a class='btn btn-sm' href='http://www.camusblathan.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.camusblathan.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Creag Eiridh', '<div class="card h-100 card mb-3">' +
                 "<h3>Creag Eiridh</h3>" +
-                "<img class='card-img-top img-fluid' src='http://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg' alt='Creag Eiridh'>" +
+                "<img class='card-img-top img-fluid' src='https://www.creageiridh.co.uk/wp-content/uploads/2016/03/TheHouse_008-300x300.jpg' alt='Creag Eiridh'>" +
                 "<p>In a secluded rural holiday location charming Creag Eiridh is a recently refurbished and immaculately presented 4-bedroom luxury holiday house. It is situated in a breathtaking position on the northern shore of Loch Nevis in the Western Highlands of Scotland</p>" +
                 "<p><a class='btn btn-sm' href='http://www.creageiridh.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
@@ -319,7 +319,7 @@ function initMap() {
                 "<h3>The Gathering</h3>" +
                 "<img class='card-img-top img-fluid' src='https://bestscottishcottages.co.uk/?page_type=show_image&img=the-gathering-1.jpg&q=65' alt='The Gathering'>" +
                 "<p>The Gathering is located in Inverie village and runs on it's own hydro-electricity system and offers stunning views and modern facilities</p>" +
-                "<p><a class='btn btn-sm' href='http://www.thegatheringknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.thegatheringknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Glaschoille House', '<div class="card h-100 card mb-3">' +
@@ -347,14 +347,14 @@ function initMap() {
                 "<h3>The Knoydart Foundation Bunkhouse</h3>" +
                 "<img class='card-img-top img-fluid' src='https://media-cdn.tripadvisor.com/media/photo-s/04/0c/32/32/knoydart-foundation-bunkhouse.jpg' alt='The Knoydart Foundation Bunkhouse'>" +
                 "<p>Knoydart Foundation Bunkhouse is a community run enterprise which re-invests any income to local community projects and it runs on green hydro power, ideal for the environmentally minded.  The Bunkhouse is half a mile south-east of Inverie village and offers discounts on school, youth, Scouts and Duke of Edinburgh's Award groups</p>" +
-                "<p><a class='btn btn-sm' href='http://www.knoydart-foundation.com/bunkhouse/about-the-bunkhouse/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.knoydart-foundation.com/bunkhouse/about-the-bunkhouse/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
            ['The Knoydart Foundation Campsite', '<div class="card h-100 card mb-3">' +
                 "<h3>The Knoydart Foundation Campsite</h3>" +
                 "<img class='card-img-top img-fluid' src='https://images.campsites.co.uk/campsite/26169/6cea409e-7785-49ce-a3fc-ced6a109ca5b/480/270/either/long-beach-campsite-knoydart.jpg' alt='The Knoydart Foundation Campsite'>" +
                 "<p>The Long Beach Campsite run by the Knoydart Foundation is located on the shores of Loch Nevis adjacent to the Knoydart Foundation Bunkhouse and is ideal for the more adventurous.   It is a multi-use site and social events take place as well</p>" +
-                "<p><a class='btn btn-sm' href='http://www.knoydart-foundation.com/coming-to-knoydart/other-accommodation/camping/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.knoydart-foundation.com/coming-to-knoydart/other-accommodation/camping/' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Knoydart Hide', '<div class="card h-100 card mb-3">' +
@@ -368,7 +368,7 @@ function initMap() {
                 "<h3>Knoydart House</h3>" +
                 "<img class='card-img-top img-fluid' src='https://static.independent.co.uk/s3fs-public/thumbnails/image/2011/03/19/18/581626.bin?width=1000&height=614&fit=bounds&format=pjpg&auto=webp&quality=70&crop=16:9,offset-y0.5' alt='Knoydart House'>" +
                 "<p>Knoydart House Studio Room boasts a hot tub and a masseuse</p>" +
-                "<p><a class='btn btn-sm' href='http://www.knoydarthouse.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.knoydarthouse.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
           ['Knoydart Lodge', '<div class="card h-100 card mb-3">' +
@@ -389,21 +389,21 @@ function initMap() {
                 "<h3>Knoydart Snug</h3>" +
                 "<img class='card-img-top img-fluid' src='https://westernislescruises.co.uk/wp-content/uploads/2016/12/dob-900x675.jpg' alt='Knoydart Snug'>" +
                 "<p>Knoydart Snugs is located at The Old Byre with independent access and run by the Old Forge and includes a window table to dine at The Old Forge pub</p>" +
-                "<p><a class='btn btn-sm' href='http://www.theoldforge.co.uk/knoydart-snug.html' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.theoldforge.co.uk/knoydart-snug.html' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
             ['Lochside House', '<div class="card h-100 card mb-3">' +
                 "<h3>Lochside</h3>" +
                 "<img class='card-img-top img-fluid' src='https://i.pinimg.com/474x/f5/36/57/f53657b236a384c805076ebdc799cf39.jpg' alt='Lochside'>" +
                 "<p>Lochside is a superb holiday cottage located in Inverie with amongst other things, a hot tub</p>" +
-                "<p><a class='btn btn-sm' href='http://www.lochsideknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.lochsideknoydart.co.uk' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
            ['The Old Byre', '<div class="card h-100 card mb-3">' +
                 "<h3>The Old Byre</h3>" +
                 "<img class='card-img-top img-fluid' src='https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAvbh-hm8clkAdtB6KYJM4OugFuMsgQE5pYRMJwGG_Urn7OiiX' alt='The Old Byre'>" +
                 "<p>The Old Byre is 15 minutes from Inverie Pier and has five bedrooms and can take up to 14 people</p>" +
-                "<p><a class='btn btn-sm' href='http://www.theoldbyreknoydart.com' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
+                "<p><a class='btn btn-sm' href='https://www.theoldbyreknoydart.com' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
             ],
           ['Westfield', '<div class="card h-100 card mb-3">' +
@@ -436,7 +436,7 @@ function initMap() {
             ],
             ['Meall Buidhe', '<div class="card h-100 card mb-3">' +
                 "<h3>Meall Buidhe</h3>" +
-                "<img class='card-img-top img-fluid' src='http://www.munromagic.com/MunroImages/CNV00028.jpg' alt='Meall Buidhe'>" +
+                "<img class='card-img-top img-fluid' src='https://www.munromagic.com/MunroImages/CNV00028.jpg' alt='Meall Buidhe'>" +
                 "<p>Meall Buidhe (lit. Yellow Knoll) is one of three munros on Knoydart and due to it's rocky slopes, requires considerable effort during ascent</p>" +
                 "<p><a class='btn btn-sm' href='https://www.walkhighlands.co.uk/munros/meall-buidhe-knoydart' target='_blank'><span class='sr-only'>Click Here</span>Click Here for more info</a></p>" +
                 "</div>"
