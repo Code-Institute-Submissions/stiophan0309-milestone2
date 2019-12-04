@@ -1,3 +1,7 @@
+/**
+ * Initialises Google map
+ */
+
 function initMap() {
 
         const styledMapType = new google.maps.StyledMapType(

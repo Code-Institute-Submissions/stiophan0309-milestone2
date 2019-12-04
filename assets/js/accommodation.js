@@ -1,3 +1,6 @@
+/**
+ * Fetches data from accommodation.json
+ */        
         fetch('assets/data/accommodation.json')
             .then(function (response) {
                 return response.json();
@@ -8,6 +11,9 @@
             .catch(function (err) {
                 console.log('error: ' + err);
             });
+/** 
+ * Displays data from json in html code
+*/
         function appendData(data) {
             let mainContainer = document.getElementById('cards');
             for (let i = 0; i < data.length; i++) {
