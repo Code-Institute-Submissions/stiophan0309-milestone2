@@ -1,3 +1,7 @@
+/**
+ * Offsets fixed header when clicking on navbar links to jump to the relevant section
+ */
+
 document.addEventListener('DOMContentLoaded', function() {
    
     $('.nav-link').click(function(e){
