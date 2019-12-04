@@ -88,6 +88,8 @@ header {
     background-image: url(/assets/images/bars-solid.svg)!important;
     background-repeat: no-repeat;
     margin: 5px;
+    position: relative;
+    top: -50px;
 }
 
 #header {
@@ -254,7 +256,8 @@ footer {
     color: #FEFBD0;
 }
 
-/* Media queries */
+ /* Media queries */
+
 @media screen and (max-width: 767px) {
     .nav-link {
     display: block;
