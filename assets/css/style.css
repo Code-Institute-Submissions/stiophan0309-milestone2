@@ -12,6 +12,13 @@ html, body {
 p, a, ul, ol {
     font-family: 'KoHo', sans-serif;
 }
+ul, ol {
+    list-style-type: none;
+}
+li {
+    margin-bottom: 5px;
+    font-size: 1.125em;
+}
 .mapouter {
     padding: 20px;
 }
@@ -166,13 +173,6 @@ img {
     object-fit: cover;
 }
 
-ul, ol {
-    list-style-type: none;
-}
-li {
-    margin-bottom: 5px;
-    font-size: 1.125em;
-}
 .listheading {
     font-size: 1.5em;
     font-weight: bold;
@@ -225,6 +225,7 @@ footer {
     color: #FEFBD0;
 }
 
+/* Media queries */
 @media screen and (max-width: 767px) {
     .nav-link {
     display: block;
