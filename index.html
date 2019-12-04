@@ -267,32 +267,8 @@ horizontal_split
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBXW0A3ny94RlpBJtj0ozwni2nc31wB51Y&callback=initMap"></script>
     <script src="assets/js/maps.js"></script>
     <script type="text/javascript" src="assets/js/accommodation.js"></script>
-    <script>
-        $(function() {
-            const navbar = $(".scroll");
-            $(window).scroll(function() {    
-                const scroll = $(window).scrollTop();
-            
-                if (scroll >= 200) {
-                    navbar.removeClass('scroll').addClass("navbar1");
-                } else {
-                    navbar.removeClass("navbar1").addClass('scroll');
-                }
-            });
-        });
-    </script>
-    <script>
-    $(".nav-item a[href^='#']").on('click', function(e) {
-   // prevent default anchor click behavior
-   e.preventDefault();
-
-   // animate
-   $('html, body').animate({
-       scrollTop: $(this.hash).offset().top - 150
-     }, 300, function(){
-     });
-});
-    </script>
+    <script src="assets/js/navbar.js"></script>
+    
     <footer>
         <div class="container-fluid">
             <div class="row">
