@@ -22,13 +22,6 @@ li {
 .mapouter {
     padding: 20px;
 }
-div#map {
-    height: 500px;
-    min-height: 360px;
-    width: 100%;
-    border: 1px solid #136C69;
-    margin: 0px;
-}
 .content {
     color: #136C69;
     z-index: 999;
@@ -122,6 +115,13 @@ header {
 
 img {
     border: 1px solid #136C69;
+}
+#map {
+    height: 500px;
+    min-height: 360px;
+    width: 100%;
+    border: 1px solid #136C69;
+    margin: 0px;
 }
 .intro-title {
     font-size: 1.5em;
