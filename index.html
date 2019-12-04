@@ -267,6 +267,18 @@ horizontal_split
     <script src="assets/js/maps.js"></script>
     <script type="text/javascript" src="assets/js/accommodation.js"></script>
     <script src="assets/js/header.js"></script>
+    <script>
+    $(".nav-item a[href^='#']").on('click', function(e) {
+   // prevent default anchor click behavior
+   e.preventDefault();
+
+   // animate
+   $('html, body').animate({
+       scrollTop: $(this.hash).offset().top - 150
+     }, 300, function(){
+     });
+});
+    </script>
     
     <footer class="container-fluid">
         <div class="row">
