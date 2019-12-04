@@ -478,10 +478,3 @@ function initMap() {
         });
 
     }
-
-google.maps.event.addListener(this.map, 'tilesloaded', function() {
-  var images = document.querySelectorAll('#map');
-  images.forEach(function(image) {
-    image.alt = "Google Maps Image";
-  });
-});
