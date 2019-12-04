@@ -81,15 +81,13 @@ header {
     margin-bottom: 10px;
     width: 3em;
     padding: 5px;
+    height: 100%;
 }
 
 .navbar-toggler-icon {
+    background-image: url(/assets/images/bars-solid.svg)!important;
+    background-repeat: no-repeat;
     margin: 5px;
-}
-.custom-toggler {
-    color: #ff4000;
-    border: 1px solid #ff4000;
-    z-index: 100;
 }
 
 #header {
