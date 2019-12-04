@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Kaushan+Script|KoHo|Marcellus+SC&display=swap');
 
+/*General styles */
 html, body {
     background-color: #000000;
     color: #ffffff;
@@ -12,9 +13,11 @@ html, body {
 p, a, ul, ol {
     font-family: 'KoHo', sans-serif;
 }
+
 ul, ol {
     list-style-type: none;
 }
+
 li {
     margin-bottom: 5px;
     font-size: 1.125em;
@@ -26,6 +29,7 @@ li {
     color: #136C69;
     z-index: 999;
 }
+
 /* Header */
 header {
     margin: 0;
@@ -34,6 +38,7 @@ header {
     background: rgb(19,108,105);
     background: linear-gradient(180deg, rgba(19,108,105,1) 0%, rgba(0,0,0,1) 100%);
 }
+
 .title-main {
     color: #fff;
     text-align: center;
@@ -41,20 +46,24 @@ header {
     font-size: 3.5em;
     text-shadow: 2px 2px #000000;
 }
+
 .title-sub {
     color: #ff4000;
     text-align: center;
     font-family: 'Kaushan Script', cursive;
     font-size: 2em;
 }
+
 /*Navbar*/
 .navbar, .navbar-expand-lg, .nav-item {
     margin: 5px 0px 0px 0px;
     padding: 5px 0px 0px 0px;
 }
+
 .navbar-nav {
     margin: 0 auto;
 }
+
 .nav-link {
     display: block;
     text-decoration: none;
@@ -66,12 +75,14 @@ header {
     color: #ff0;
     background-color: #ff4000;
 }
+
 .navbar-toggler {
     color: #ff4000;
     margin-bottom: 10px;
     width: 3em;
     padding: 5px;
 }
+
 .navbar-toggler-icon {
     margin: 5px;
 }
@@ -80,13 +91,16 @@ header {
     border: 1px solid #ff4000;
     z-index: 100;
 }
+
 #header {
     text-align: center;
 }
+
 .navbar1 {
     display: inline-block;
     text-align: center;
 }
+
 .wrap {
     margin:0;
     padding: 0;
@@ -105,9 +119,11 @@ header {
     -moz-box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
     box-shadow: 5px 5px 5px 5px rgba(0,41,38,1);
 }
+
 .top {
     margin-top: 240px;
 }
+
 .section-title {
     font-family: 'Marcellus SC', serif;
     color: #ff4000;
@@ -116,6 +132,7 @@ header {
 img {
     border: 1px solid #136C69;
 }
+
 #map {
     height: 500px;
     min-height: 360px;
@@ -129,11 +146,13 @@ img {
     font-weight: bold;
     text-align: center;
 }
+
 .intro-text {
     margin: 50px;
     text-align: center;
     font-size: 1.25em;
 }
+
 .badge-danger {
     border-radius: 25px;
     padding: 10px;
@@ -142,6 +161,7 @@ img {
     border: 1px solid #ffffff;
     -webkit-background-clip: padding-box;
 }
+
 .letter {
     position: absolute;
     top: 10px;
@@ -153,9 +173,11 @@ img {
     margin: 0px;
     padding: 0px;
 }
+
 .card-deck .card {
     margin-bottom: 20px;
 }
+
 .card {
     width: 18rem;
     margin-bottom: 20px; !important
@@ -168,6 +190,7 @@ img {
     height: 100vh;
     max-height: 750px;
 }
+
 .card-img-top {
     height: 13vw;
     object-fit: cover;
@@ -178,13 +201,16 @@ img {
     font-weight: bold;
     color: #ffd826;
 }
+
 #crafts {
     margin-bottom: 50px;
 }
+
 .ext-link {
     text-decoration: none;
     color: #ffffff;
 }
+
 .ext-link:hover {
     text-decoration: none;
     color: #ff4000;
@@ -195,19 +221,23 @@ img {
     font-weight: bold;
     color: #ffd826;
 }
+
 .act-sub-heading {
     font-size: 1.5em;
     font-weight: bold;
     
 }
+
 .act-container {
     margin: 10px;
     border-bottom: 1px solid #FEFBD0;
     padding-bottom: 20px;
 }
+
 .act-internal {
     padding: 0;
 }
+
 .act-wrapper {
     margin: 20px;
 }
@@ -221,6 +251,7 @@ footer {
     padding-top: 20px;
     border-top: 1px solid #fff;
 }
+
 .legal {
     color: #FEFBD0;
 }
