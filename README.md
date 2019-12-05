@@ -40,11 +40,11 @@ The project will benefit users because:
 
 Links to wireframes are as folows:
 
-* [Browser Window](/wireframes/Browser_Window.png)
-* [Mobile](/wireframes/Mobile.png)
-* [Full Page](/wireframes/Full_Page.png)
-* [Full Page - Tablet](/wireframes/Full_Page-Tablet.png)
-* [Full Page - Mobile](/wireframes/Full_Page-Mobile.png)
+* [Browser Window](https://github.com/stiophan0309/milestone2/blob/master/wireframes/Browser_Window.png)
+* [Mobile](https://github.com/stiophan0309/milestone2/blob/master/wireframes/Mobile-Menu.png)
+* [Full Page](https://github.com/stiophan0309/milestone2/blob/master/wireframes/Full-Page-Desktop.png)
+* [Full Page - Tablet](https://github.com/stiophan0309/milestone2/blob/master/wireframes/Full-Page-Tablet.png)
+* [Full Page - Mobile](https://github.com/stiophan0309/milestone2/blob/master/wireframes/Full-Page-Mobile.png)
 
 ## Features
 
@@ -69,13 +69,13 @@ At the time of development it was hoped that all the JS scripts could be combine
 
 ### In this project I also used:
 
-* Bootstrap - [http://getbootstrap.com/]
+* [Bootstrap](https://getbootstrap.com/)
     - I use **Bootstrap** to give the project a simple, responsive layout.
     
-* jQuery - [https://jquery.com]
+* [jQuery](https://jquery.com)
     - jQuery was used to access some additional libraries which are required by Bootstrap and Google Maps which give additional function to the site.
 
-* JSON - [https://www.json.org/json-en.html]
+* [JSON](https://www.json.org/json-en.html)
     - I use JSON for dynamically storing and accessing data to avoid clutter within HTML and JavaScript code.
 
 ## Testing
@@ -121,31 +121,28 @@ HTML and CSS have been validated by using the W3C HTML and CSS validation servic
 
 The project was developed on the GitPod IDE and deployed to GitHub via the push function.
 
-The url of the deployed site is as follows:
+The deployed site can be found [HERE](https://stiophan0309.github.io/milestone2/)
 
-[https://stiophan0309.github.io/milestone2/]
+The url of the development site can be found [HERE](https://github.com/stiophan0309/milestone2)
 
-The url of the development site is:
-
-[https://github.com/stiophan0309/milestone2]
 
 ## Credits
 
 ### Acknowledgements
 
-My mentor Simen Daehlin has been instrumental in guiding m through the development process
+My mentor [Simen Daehlin](https://www.github.com/Eventyret) has been instrumental in guiding m through the development process
 
 ### Content
 
 The site was built using content from the following sites:
 
-* Visit Knoydart [https://www.visitknoydart.co.uk]
-* Walk Highlands [https://www.walkhighlands.co.uk]
-* Kilchoan Estate [https://www.kilchoan-knoydart.com]
-* Knoydart Foundation [http://www.knoydart-foundation.com]
-* Visit Scotland [https://www.visitscotland.com]
-* Western Isles Cruises [https://westernislescruises.co.uk]
-* Trip Advisor [https://www.tripadvisor.co.uk]
+* [Visit Knoydart](https://www.visitknoydart.co.uk)
+* [Walk Highlands](https://www.walkhighlands.co.uk)
+* [Kilchoan Estate](https://www.kilchoan-knoydart.com)
+* [Knoydart Foundation](http://www.knoydart-foundation.com)
+* [Visit Scotland](https://www.visitscotland.com)
+* [Western Isles Cruises](https://westernislescruises.co.uk)
+* [Trip Advisor](https://www.tripadvisor.co.uk)
 
 ### Media
 
