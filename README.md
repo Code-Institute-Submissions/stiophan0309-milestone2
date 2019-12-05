@@ -28,12 +28,12 @@ The project will benefit users because:
 
 ### User stories
 
-1. As a new vistor to the site, I want to be able to easily navigate around the site so I can find easily the information I require.
-2. As a new vistor to the site, I want to be able to view accommodation, activities and travel details so I can decide if Knoydart is a place I wish to visit.
-3. As a hillwalker I want information on walks, details of the hill(s) and local amenities.
-4. As a holidaymaker I want to find out what accommodation and activities are available.
-5. As a newlywed I wish to find out if Knoydart is suitable for a honeymoon.
-6. As a group we wish to see if our group can be accommodated and what facilities and activities are available.
+1.  As a new vistor to the site, I want to be able to easily navigate around the site so I can find easily the information I require.
+2.  As a new vistor to the site, I want to be able to view accommodation, activities and travel details so I can decide if Knoydart is a place I wish to visit.
+3.  As a hillwalker I want information on walks, details of the hill(s) and local amenities.
+4.  As a holidaymaker I want to find out what accommodation and activities are available.
+5.  As a newlywed I wish to find out if Knoydart is suitable for a honeymoon.
+6.  As a group we wish to see if our group can be accommodated and what facilities and activities are available.
 
 
 ### Wireframes
@@ -124,6 +124,32 @@ The project was developed on the GitPod IDE and deployed to GitHub via the push 
 The deployed site can be found [HERE](https://stiophan0309.github.io/milestone2/)
 
 The url of the development site can be found [HERE](https://github.com/stiophan0309/milestone2)
+
+In order to deploy this page to GitHub Pages from its [GitHub repository](https://github.com/stiophan0309/milestone2), the following steps were taken:
+
+1. Log into GitHub
+2. Select **milestone2** from the repository list on screen.
+3. Select **Settings** (last entry of the tabbed menu under where it says **stiophan0309/milestone2**).
+4. Scroll down to the **GitHub Pages** section.
+5. Under **Source** click the drop-down menu labelled **None** and select **Master Branch**.
+6. On selecting **Master Branch** the page is automatically refreshed, the website is now deployed.
+7. Scroll back down to the **GitHub Pages** section to obtain the link to the newly deployed website.
+
+The Development and Master branch are identical at time of writing.
+
+### How to run the project locally
+
+To run the project locally, you will need to *clone* it:
+
+1. Follow this link [HERE](https://github.com/stiophan0309/milestone2) to the GitHub Repository of the project.
+2. Under the repository name, click the green **Clone or download** button.
+3. Click the **Clone with HTTPS** link in the top right of the popup section, then copy URL in the box.
+4. In your preferred IDE open, **Git Bash** (the command prompt where you do your commits etc).
+5. Change the current working directory to the location where you want the cloned directory to be made e.g.  ```cd master/YOUR_DIRECTORY```
+6. Type ```git clone```, and then paste the URL you copied in Step 3.  e.g.  ```git clone https://github.com/stiophan0309/milestone2```
+7. Press **Enter**. Your local clone will now be created.
+
+For further information on cloning a repository, check out the [GitHub Information Page](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
 
 ## Credits
