@@ -23,8 +23,8 @@ The project will benefit users because:
 * Does not focus on any specific subject, other sites go too much into detail straight away
 
 * The website is
-..* Easy to navigate
-..* Broken down into clear sections without information overload
+  * Easy to navigate
+  * Broken down into clear sections without information overload
 
 ### User stories
 
@@ -40,11 +40,11 @@ The project will benefit users because:
 
 Links to wireframes are as folows:
 
-*[Browser Window](/wireframes/Browser_Window.png)
-*[Mobile](/wireframes/Mobile.png)
-*[Full Page](/wireframes/Full_Page.png)
-*[Full Page - Tablet](/wireframes/Full_Page-Tablet.png)
-*[Full Page - Mobile](/wireframes/Full_Page-Mobile.png)
+* [Browser Window](/wireframes/Browser_Window.png)
+* [Mobile](/wireframes/Mobile.png)
+* [Full Page](/wireframes/Full_Page.png)
+* [Full Page - Tablet](/wireframes/Full_Page-Tablet.png)
+* [Full Page - Mobile](/wireframes/Full_Page-Mobile.png)
 
 ## Features
 
@@ -88,33 +88,33 @@ HTML and CSS have been validated by using the W3C HTML and CSS validation servic
 ### Manual Testing of Site
 
 1. Header collapse
-    ..i. Go to Home page
-   ..ii. Scroll down using mouse
-  ..iii. Checked to see if Title and Subtitle collapse onto one line
+      i. Go to Home page
+     ii. Scroll down using mouse
+    iii. Checked to see if Title and Subtitle collapse onto one line
   
 2. Navigation Bar
-    ..i. Go to Home Page from a desktop computer
-   ..ii. Use device settings in Google Chrome to mimic various devices to test if layout is responsive, and
-  ..iii. Re-size browser window to see if Navbar is responsive and collapes at small resolutions
-   ..iv. Click on each navigation item to verify it scrolls to the relevant section and doesn't disappear underneath the fixed header
-    ..v. Repeated above using a tablet and mobile phone
+      i. Go to Home Page from a desktop computer
+     ii. Use device settings in Google Chrome to mimic various devices to test if layout is responsive, and
+    iii. Re-size browser window to see if Navbar is responsive and collapes at small resolutions
+     iv. Click on each navigation item to verify it scrolls to the relevant section and doesn't disappear underneath the fixed header
+      v. Repeated above using a tablet and mobile phone
 
 3. Map
-    ..i. Click on map markers to verify an infowindow appears
-   ..ii. Click on the external link on the infowindow to verify it links to the relevant url
-  ..iii. Click on the cluster icons to verify the map zooms in to view individual clusters
-   ..iv. Click on map markers after having zoomed in and repeat steps i. and ii.
+      i. Click on map markers to verify an infowindow appears
+     ii. Click on the external link on the infowindow to verify it links to the relevant url
+    iii. Click on the cluster icons to verify the map zooms in to view individual clusters
+     iv. Click on map markers after having zoomed in and repeat steps i. and ii.
    
 4. Accommodation Section
-    ..i. Go to home page
-   ..ii. Go to Accommodation section
-  ..iii. Verfiy each 'card' is displaying correctly (image, text, and Visit Page link)
-   ..iv. Verify each Visit Page botton works and links to the relevant url
+      i. Go to home page
+     ii. Go to Accommodation section
+    iii. Verfiy each 'card' is displaying correctly (image, text, and Visit Page link)
+     iv. Verify each Visit Page botton works and links to the relevant url
    
 5. Rest of site
-    ..i. Go to Home Page
-   ..ii. Click on relevant button on Navbar
-  ..iii. Verify any links work and go to relevent url
+      i. Go to Home Page
+     ii. Click on relevant button on Navbar
+    iii. Verify any links work and go to relevent url
    
 
 ## Deployment
